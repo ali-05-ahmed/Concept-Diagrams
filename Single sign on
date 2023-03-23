@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T11:57:41.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sPCkJbjX-MqxRNbqPS0S" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T12:44:01.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0ICesnaN6Aw75f54WaDD" version="21.0.10" type="github">
   <diagram name="Page-1" id="mkH6iEVLNVYiMEqw9kQV">
     <mxGraphModel dx="2045" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="w9arz3fZRUgWK8p3hB5G-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9arz3fZRUgWK8p3hB5G-39" target="w9arz3fZRUgWK8p3hB5G-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w9arz3fZRUgWK8p3hB5G-39" value="ENS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Registry" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="w9arz3fZRUgWK8p3hB5G-39" value="Magic &lt;br&gt;ENS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Registry" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9arz3fZRUgWK8p3hB5G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9arz3fZRUgWK8p3hB5G-41" target="w9arz3fZRUgWK8p3hB5G-48">
@@ -339,13 +339,13 @@
         <mxCell id="w9arz3fZRUgWK8p3hB5G-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9arz3fZRUgWK8p3hB5G-71" target="w9arz3fZRUgWK8p3hB5G-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w9arz3fZRUgWK8p3hB5G-71" value="Onchain data&lt;br&gt;indexer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="w9arz3fZRUgWK8p3hB5G-71" value="Magic&lt;br&gt;Onchain data&lt;br&gt;indexer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-30" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="w9arz3fZRUgWK8p3hB5G-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9arz3fZRUgWK8p3hB5G-72" target="w9arz3fZRUgWK8p3hB5G-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w9arz3fZRUgWK8p3hB5G-72" value="ML fraud filters" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="w9arz3fZRUgWK8p3hB5G-72" value="Magic&lt;br&gt;ML fraud filters" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
