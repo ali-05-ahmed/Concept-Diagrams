@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T17:00:03.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HNq0bPUIXINBPXz8482V" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T17:26:31.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="c4e9IDz3_4IkeaE4PU6P" version="21.1.6" type="github">
   <diagram name="Page-1" id="n1fe1yE27rQRRwrI7tOu">
-    <mxGraphModel dx="4947" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5630" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,14 @@
             <Array as="points">
               <mxPoint x="690" y="1110" />
               <mxPoint x="690" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uHP_KrZKe9CXP2k7EGdI-25" target="GO1gQ9hhBlQTtiSkjved-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1110" />
+              <mxPoint x="690" y="1305" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -486,6 +494,68 @@
         </mxCell>
         <mxCell id="GO1gQ9hhBlQTtiSkjved-22" value="EDCSA&lt;br style=&quot;font-size: 14px;&quot;&gt;Verify" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="960" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1200" width="610" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-26" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;ASSET CONTROLLER&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1200" width="610" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-28" value="&lt;h1 style=&quot;font-size: 19px;&quot;&gt;TRANSACTION CONTROLLER&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1220" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="938.1999999999998" y="1320.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="769.9999999999999" y="1262.7" width="88.2" height="114.6" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-32" value="Asset store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782.1" y="1370" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-35" target="GO1gQ9hhBlQTtiSkjved-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-35" value="Interface listner" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-36" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1175.8999999999999" y="1262.7" width="88.2" height="114.6" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-38" value="Asset balances" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1377.3" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-39" target="0-gvIS_jXQqOGHr48Svx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-39" value="RPC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-41" target="GO1gQ9hhBlQTtiSkjved-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-41" value="Signer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-42" target="GO1gQ9hhBlQTtiSkjved-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-42" value="Transaction" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1317.3" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GO1gQ9hhBlQTtiSkjved-44" target="GO1gQ9hhBlQTtiSkjved-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-44" value="EDCSA&lt;br&gt;VERIFY" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1307.3" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GO1gQ9hhBlQTtiSkjved-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHP_KrZKe9CXP2k7EGdI-25" target="GO1gQ9hhBlQTtiSkjved-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
