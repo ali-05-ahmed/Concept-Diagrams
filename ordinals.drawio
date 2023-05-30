@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T15:46:20.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Kk1IHFYww2iQWio3nGd7" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T15:49:37.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Bc1DtSmzuRcn5ZeRXn_I" version="21.3.4" type="github">
   <diagram name="Page-1" id="rx7damcdNTYG1G0Iyzn_">
-    <mxGraphModel dx="2049" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-Z3mJZT0x3n6_PQ71SNU-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="10" width="930" height="930" as="geometry" />
+        </mxCell>
         <mxCell id="-Z3mJZT0x3n6_PQ71SNU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Z3mJZT0x3n6_PQ71SNU-1" target="-Z3mJZT0x3n6_PQ71SNU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -127,6 +130,9 @@
         </mxCell>
         <mxCell id="-Z3mJZT0x3n6_PQ71SNU-25" value="Taproot commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Z3mJZT0x3n6_PQ71SNU-41" value="&lt;h1&gt;ORDINALS&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
