@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T15:49:35.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="J7xM-NO08gm4WDDF56Ey" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T15:59:51.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_OdrA9OEKTb9GMA6Cq7g" version="21.5.0" type="github">
   <diagram name="Page-1" id="9HDSjYb-CrNaBwmCaKAF">
-    <mxGraphModel>
+    <mxGraphModel dx="1591" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PMob-h4jPJNestGRhgVY-2" value="&lt;h1&gt;MPC server&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-3" target="PMob-h4jPJNestGRhgVY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-3" target="PMob-h4jPJNestGRhgVY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-3" value="server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="14" y="295" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-6" value="key share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-8" target="PMob-h4jPJNestGRhgVY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-8" target="PMob-h4jPJNestGRhgVY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-8" value="Kresus API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-9" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-11" target="PMob-h4jPJNestGRhgVY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-11" value="Thushold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-15" target="PMob-h4jPJNestGRhgVY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-15" value="Signed message hash" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-17" target="PMob-h4jPJNestGRhgVY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-17" target="PMob-h4jPJNestGRhgVY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="699.5" y="288.5" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-18" target="PMob-h4jPJNestGRhgVY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-18" target="PMob-h4jPJNestGRhgVY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="288.5" width="45" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="150" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-20" value="key share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-21" target="PMob-h4jPJNestGRhgVY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="846.5" y="150" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-22" value="key share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-29" target="PMob-h4jPJNestGRhgVY-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-29" value="Owner magic wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMob-h4jPJNestGRhgVY-30" target="PMob-h4jPJNestGRhgVY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-30" value="Signed message hash" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PMob-h4jPJNestGRhgVY-32" value="Vault contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
