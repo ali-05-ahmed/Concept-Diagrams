@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T14:57:22.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jh0-hGIiW6wBXg0fAKgN" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T15:10:03.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AueWl8i9_Ri0cLxe7pjq" version="21.6.9" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1388" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2950" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,30 +25,27 @@
         <mxCell id="XzS5bTZx3EFFYI8axKuy-4" value="&lt;b&gt;FCL Config&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XzS5bTZx3EFFYI8axKuy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-11" target="XzS5bTZx3EFFYI8axKuy-12">
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-11" target="XzS5bTZx3EFFYI8axKuy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XzS5bTZx3EFFYI8axKuy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-11" target="XzS5bTZx3EFFYI8axKuy-14">
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-11" target="XzS5bTZx3EFFYI8axKuy-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XzS5bTZx3EFFYI8axKuy-11" value="&lt;b&gt;Default FCL Compatible Wallets&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XzS5bTZx3EFFYI8axKuy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-12" target="XzS5bTZx3EFFYI8axKuy-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="865" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XzS5bTZx3EFFYI8axKuy-12" value="&lt;b&gt;Filter&lt;br&gt;map&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="410" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="XzS5bTZx3EFFYI8axKuy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-14" target="XzS5bTZx3EFFYI8axKuy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-14" target="XzS5bTZx3EFFYI8axKuy-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="845" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XzS5bTZx3EFFYI8axKuy-14" value="&lt;b&gt;Formula E compatible wallets&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="785" y="518" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XzS5bTZx3EFFYI8axKuy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XzS5bTZx3EFFYI8axKuy-19" target="XzS5bTZx3EFFYI8axKuy-21">
           <mxGeometry relative="1" as="geometry" />
@@ -154,6 +151,15 @@
         </mxCell>
         <mxCell id="XzS5bTZx3EFFYI8axKuy-69" value="&lt;b&gt;Access control&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="793" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-75" value="&lt;b&gt;Filter&lt;br&gt;wallets&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="508" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-80" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XzS5bTZx3EFFYI8axKuy-81" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="584" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
