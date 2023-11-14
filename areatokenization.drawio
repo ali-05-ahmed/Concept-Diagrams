@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T05:18:26.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7bf1Zyc9s6fYMv8_1Df2" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T06:26:34.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fQWBaQWiNCU4jIj7LWZE" version="22.1.0" type="github">
   <diagram name="Page-1" id="qh9bkh5XAp2ZXwSmuEZq">
     <mxGraphModel dx="934" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,8 +36,20 @@
         <mxCell id="P4B9Dwf5wOCtqZJwkF_M-8" value="&lt;h1&gt;Total Supply&lt;/h1&gt;&lt;div&gt;the supply will be defined in the context of the smallest salable area denomination.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="60" width="190" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="P4B9Dwf5wOCtqZJwkF_M-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P4B9Dwf5wOCtqZJwkF_M-10" target="P4B9Dwf5wOCtqZJwkF_M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P4B9Dwf5wOCtqZJwkF_M-10" value="ERC1155" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="200" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P4B9Dwf5wOCtqZJwkF_M-12" value="Balance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P4B9Dwf5wOCtqZJwkF_M-14" value="&lt;h1&gt;Balance Single Unit&lt;/h1&gt;&lt;div&gt;the balance single unit is the smallest unit we will allow to sell that is balance is equal 1 will is equal to 1&amp;nbsp;sq yards&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="P4B9Dwf5wOCtqZJwkF_M-15" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="430" width="210" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
