@@ -1,9 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T18:24:04.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="sZxQ-Axf64KKrjn6lXgI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T18:38:16.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xZRb4EulBJt0YlF53KAq" version="22.1.3" type="github">
   <diagram name="Page-1" id="wbTGaviC06VSCVssjtOR">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_2EFTR_17ieb7isfVrWk-1" value="Bundlers" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="449" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_2EFTR_17ieb7isfVrWk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122" y="409" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-4" value="Transaction signature 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="269" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-7" value="Transaction signature X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="219" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-8" value="Transaction signature 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="319" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-9" value="Transaction signature 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="369" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-10" target="_2EFTR_17ieb7isfVrWk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-10" value="Bundler EOA" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wallet;" vertex="1" parent="1">
+          <mxGeometry x="87" y="579" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-12" target="_2EFTR_17ieb7isfVrWk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-12" value="Entrypoint.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="247" y="439" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-1" target="_2EFTR_17ieb7isfVrWk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-14" target="_2EFTR_17ieb7isfVrWk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-14" value="Is signer&amp;nbsp;&lt;br&gt;address&lt;br&gt;whitlisted" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="348" width="130" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-15" target="_2EFTR_17ieb7isfVrWk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-15" value="is selected&lt;br&gt;&amp;nbsp;paymaster&lt;br&gt;staked?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="504" width="130" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-19" target="_2EFTR_17ieb7isfVrWk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-19" target="_2EFTR_17ieb7isfVrWk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-19" value="Transaction signature 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="469" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-23" target="_2EFTR_17ieb7isfVrWk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-23" value="Paymaster.sol" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="730" y="437" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-14" target="_2EFTR_17ieb7isfVrWk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-15" target="_2EFTR_17ieb7isfVrWk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2EFTR_17ieb7isfVrWk-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-28" value="Pay Gas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-30" value="Invalid transaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2EFTR_17ieb7isfVrWk-31" value="Invalid transaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
