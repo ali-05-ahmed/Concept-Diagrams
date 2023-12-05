@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T15:15:33.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h-wJObXP8_TJBEbYjWiM" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T15:26:00.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OXL6dem7dUMLJuYsI4HH" version="22.1.5" type="github">
   <diagram name="Page-1" id="HEoOxhop8Ih9AfGgCKOJ">
-    <mxGraphModel dx="1356" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,11 @@
         <mxCell id="kkcZBeg4sPtkYq2LsZ84-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkcZBeg4sPtkYq2LsZ84-26" target="kkcZBeg4sPtkYq2LsZ84-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kkcZBeg4sPtkYq2LsZ84-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kkcZBeg4sPtkYq2LsZ84-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="60" height="60" as="geometry" />
         </mxCell>
@@ -104,6 +109,24 @@
         </mxCell>
         <mxCell id="kkcZBeg4sPtkYq2LsZ84-34" value="Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="650" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-40" value="Game play" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kkcZBeg4sPtkYq2LsZ84-41" target="kkcZBeg4sPtkYq2LsZ84-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-41" value="99starz provider injection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-42" value="Game application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkcZBeg4sPtkYq2LsZ84-43" target="kkcZBeg4sPtkYq2LsZ84-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkcZBeg4sPtkYq2LsZ84-43" value="99starz SDK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
