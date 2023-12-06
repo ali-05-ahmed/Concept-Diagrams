@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T16:21:28.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AYc9UeCgxUBmjquw8C71" version="22.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T16:22:20.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dPoEzBVefNs6zL7fv3f-" version="22.1.6" type="github">
   <diagram name="Page-1" id="HEoOxhop8Ih9AfGgCKOJ">
     <mxGraphModel dx="4240" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,6 +209,9 @@
         <mxCell id="0TNFygXXj_Ud92CVm8Mx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TNFygXXj_Ud92CVm8Mx-67" target="0TNFygXXj_Ud92CVm8Mx-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0TNFygXXj_Ud92CVm8Mx-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0TNFygXXj_Ud92CVm8Mx-67" target="0TNFygXXj_Ud92CVm8Mx-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0TNFygXXj_Ud92CVm8Mx-67" value="Release Sub Game DAO &amp;amp; Vault" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
@@ -365,12 +368,6 @@
         </mxCell>
         <mxCell id="0TNFygXXj_Ud92CVm8Mx-116" value="policy criteria" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1194.5" width="125" height="120.5" as="geometry" />
-        </mxCell>
-        <mxCell id="0TNFygXXj_Ud92CVm8Mx-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0TNFygXXj_Ud92CVm8Mx-67" target="0TNFygXXj_Ud92CVm8Mx-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-250" y="1190" as="sourcePoint" />
-            <mxPoint x="-330" y="1240" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0TNFygXXj_Ud92CVm8Mx-130" value="&lt;h1&gt;DAO Member Journey APEDAO x 99starz&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-719" y="870" width="634" height="50" as="geometry" />
