@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T16:22:14.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Cm4vAzm0CVBUSTdzEF5T" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T16:23:13.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EOJv7Qxdw5j-cIfEUwCZ" version="22.1.7" type="github">
   <diagram name="Page-1" id="aCcWEt41rh4p7NLnm21A">
-    <mxGraphModel dx="714" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lImG6d_6mpZsjpR3Lf-0-53" value="Use NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="717" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lImG6d_6mpZsjpR3Lf-0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lImG6d_6mpZsjpR3Lf-0-49">
           <mxGeometry relative="1" as="geometry">
@@ -158,8 +158,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lImG6d_6mpZsjpR3Lf-0-55" value="Use NFT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="711" y="586" width="60" height="30" as="geometry" />
+        <mxCell id="lImG6d_6mpZsjpR3Lf-0-55" value="Reward" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="718" y="586" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lImG6d_6mpZsjpR3Lf-0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="578" as="sourcePoint" />
+            <mxPoint x="500" y="578" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="621" y="578" />
+              <mxPoint x="621" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lImG6d_6mpZsjpR3Lf-0-57" value="Distribution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="576" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
