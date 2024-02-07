@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T16:52:12.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="krSqSrlzQzLTLW_Pr_iM" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T17:06:10.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0FIfSXjQ9O_vdvP7AzeM" version="23.0.2" type="github">
   <diagram name="Page-1" id="7jnju3X13NSetyP83VK7">
-    <mxGraphModel dx="1560" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,13 @@
         <mxCell id="PZjx9glAYog10NwFBfw6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-18" target="PZjx9glAYog10NwFBfw6-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PZjx9glAYog10NwFBfw6-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="111" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-18" value="HR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="280" width="30" height="60" as="geometry" />
+          <mxGeometry x="96" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-19" target="PZjx9glAYog10NwFBfw6-22">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +70,77 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-22" value="&lt;br&gt;is&lt;br&gt;Successful" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="735" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PZjx9glAYog10NwFBfw6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="PZjx9glAYog10NwFBfw6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-24" target="PZjx9glAYog10NwFBfw6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-24" value="&lt;br&gt;Induction forms" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;To : Applicant&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="265" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-31" target="PZjx9glAYog10NwFBfw6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-31" value="ID copies" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="560" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-33" target="PZjx9glAYog10NwFBfw6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-33" value="Employment Ref" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="560" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-34" target="PZjx9glAYog10NwFBfw6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-34" value="&lt;br&gt;DBS&lt;br&gt;Check" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;rounded=1;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-38" value="&lt;br&gt;Enlist&lt;br&gt;empolyee Portal" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;rounded=1;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-40" target="PZjx9glAYog10NwFBfw6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-40" value="Employee Data" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.folders;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZjx9glAYog10NwFBfw6-58" target="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-58" value="HR&lt;br&gt;Portal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-59" value="" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="529" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-60" value="view" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-61" value="Update" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-62" value="Delete" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-63" value="Label" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.bottomButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZjx9glAYog10NwFBfw6-64" value="add Employee" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=5;ry=5;rectMargin=5;strokeColor=#D2D3D5;fontSize=8;fillColor=#ffffff;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry y="1" width="140" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
