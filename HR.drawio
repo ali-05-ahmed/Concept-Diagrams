@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T12:14:06.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oujri3LzdjFCmy1_kFf_" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T12:14:48.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zV-SM4KEcbe5ngtiwq3S" version="23.1.2" type="github">
   <diagram name="Page-1" id="7jnju3X13NSetyP83VK7">
-    <mxGraphModel dx="5530" dy="3470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2410" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,8 +299,8 @@
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fMP2AaIuiXEpkMYZhFBn-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User Journey&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Designing a system involves integrating smart protocol execution, React/Next.js for the front end, and Node.js for backend development.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-180" width="260" height="160" as="geometry" />
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-2" value="&lt;h1 style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User Journey&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Designing a system involves integrating smart protocol execution, React/Next.js for the front end, and Node.js for backend development.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-180" width="650" height="420" as="geometry" />
         </mxCell>
         <mxCell id="fMP2AaIuiXEpkMYZhFBn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-4" target="fMP2AaIuiXEpkMYZhFBn-6">
           <mxGeometry relative="1" as="geometry" />
