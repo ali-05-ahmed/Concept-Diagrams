@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T11:50:16.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EdVovz6mR09FYnRGT7Yp" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T12:00:24.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HFz8nOpE1YCG-1p5u0KM" version="23.1.2" type="github">
   <diagram name="Page-1" id="7jnju3X13NSetyP83VK7">
-    <mxGraphModel dx="2187" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1630" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,10 +269,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-97" value="Reminders" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="881" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="794" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-98" value="" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="871" y="999" width="140" height="92" as="geometry" />
+          <mxGeometry x="784" y="999" width="140" height="92" as="geometry" />
         </mxCell>
         <mxCell id="PZjx9glAYog10NwFBfw6-99" value="&lt;p class=&quot;MsoNormal&quot;&gt;supervision&amp;nbsp;&lt;/p&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" parent="PZjx9glAYog10NwFBfw6-98" vertex="1">
           <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
@@ -440,10 +440,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fMP2AaIuiXEpkMYZhFBn-50" value="HR&lt;br&gt;Portal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fMP2AaIuiXEpkMYZhFBn-52" value="Employee&amp;nbsp;&lt;br&gt;Assignment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fMP2AaIuiXEpkMYZhFBn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.496;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-52" target="fMP2AaIuiXEpkMYZhFBn-48">
           <mxGeometry relative="1" as="geometry" />
@@ -539,6 +539,97 @@
         </mxCell>
         <mxCell id="fMP2AaIuiXEpkMYZhFBn-86" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Arial;mso-fareast-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;color:rgb(34,34,34);font-size:12.0000pt;&quot;&gt;6 months&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-235" y="487.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-89" target="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-89" target="PZjx9glAYog10NwFBfw6-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-89" target="fMP2AaIuiXEpkMYZhFBn-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-89" value="Employee&lt;br&gt;Portal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="968" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-90" value="" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="958" y="999" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-91" value="view" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-92" value="Update" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-93" value="Delete" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-94" value="Label" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.bottomButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-95" value="add Employee" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=5;ry=5;rectMargin=5;strokeColor=#D2D3D5;fontSize=8;fillColor=#ffffff;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-90">
+          <mxGeometry y="1" width="140" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-98" target="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-98" value="Task&lt;br&gt;Managment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-99" value="" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="999" width="140" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-100" value="view" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-101" value="Update" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-102" value="Delete" style="shape=rect;html=1;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-103" value="Label" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.bottomButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry width="131.46341463414635" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="65" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-104" value="add Task" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=5;ry=5;rectMargin=5;strokeColor=#D2D3D5;fontSize=8;fillColor=#ffffff;fontColor=#0080F0;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="fMP2AaIuiXEpkMYZhFBn-99">
+          <mxGeometry y="1" width="140" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-106" target="PZjx9glAYog10NwFBfw6-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fMP2AaIuiXEpkMYZhFBn-106" target="fMP2AaIuiXEpkMYZhFBn-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMP2AaIuiXEpkMYZhFBn-106" value="&lt;br&gt;Manager" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#999999;rounded=1;shadow=0;dashed=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="775" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
