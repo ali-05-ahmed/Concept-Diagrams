@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T11:42:30.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="f-OxJbfZdlime3abfIPu" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T11:43:59.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mHAQdvz3UpqY0iVruDbw" version="23.1.5" type="github">
   <diagram name="Page-1" id="VSBwoO1chZpmU5uCtz8e">
-    <mxGraphModel dx="1774" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1971" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,12 @@
           <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jtm_9LdOLC1XDKBe1FJw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jtm_9LdOLC1XDKBe1FJw-30" target="Jtm_9LdOLC1XDKBe1FJw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtm_9LdOLC1XDKBe1FJw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jtm_9LdOLC1XDKBe1FJw-30" target="Jtm_9LdOLC1XDKBe1FJw-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtm_9LdOLC1XDKBe1FJw-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jtm_9LdOLC1XDKBe1FJw-30" target="Jtm_9LdOLC1XDKBe1FJw-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jtm_9LdOLC1XDKBe1FJw-30" value="Bryt Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -154,6 +160,12 @@
         </mxCell>
         <mxCell id="Jtm_9LdOLC1XDKBe1FJw-70" value="Send Trasnaction&lt;span id=&quot;docs-internal-guid-33e7f3e2-7fff-92e4-f55d-1018287147d5&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtm_9LdOLC1XDKBe1FJw-73" value="Transaction Trie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jtm_9LdOLC1XDKBe1FJw-75" value="Account Trie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
