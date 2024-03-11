@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T14:59:03.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6Vs8dSjeggYMsk3vsM5V" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T15:14:31.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Fd2UJ6DzlDwERfEzhZqQ" version="23.1.5" type="github">
   <diagram name="Page-1" id="VG9prOFa8QgIFDCGZgP3">
     <mxGraphModel dx="1337" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="slcEtXl4ANhl4ZLk67iS-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="110" width="850" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="352" y="690" as="targetPoint" />
@@ -95,6 +98,9 @@
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-7" value="99Starz&lt;br&gt;&amp;nbsp;provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="564" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slcEtXl4ANhl4ZLk67iS-11" value="&lt;h1&gt;99starz DAO Rentals&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28" y="140" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
