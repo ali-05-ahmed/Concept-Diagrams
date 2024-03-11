@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T14:02:04.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gRK59uPclzD8jL2eglBE" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T14:59:03.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6Vs8dSjeggYMsk3vsM5V" version="23.1.5" type="github">
   <diagram name="Page-1" id="VG9prOFa8QgIFDCGZgP3">
-    <mxGraphModel dx="1101" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="slcEtXl4ANhl4ZLk67iS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="510" as="targetPoint" />
+            <mxPoint x="352" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-1" value="99Starz &lt;br&gt;SDK" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="339" y="374" width="80" height="80" as="geometry" />
+          <mxGeometry x="312" y="554" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-2" target="CwHaMfXqF2rZw4a0Jr2v-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-2" value="X Game NFT&lt;br&gt;721/1155" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="45" y="129" width="80" height="80" as="geometry" />
+          <mxGeometry x="18" y="309" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-3" target="CwHaMfXqF2rZw4a0Jr2v-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,22 +25,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-3" value="Smart contract wallet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" parent="1" vertex="1">
-          <mxGeometry x="55" y="384" width="60" height="60" as="geometry" />
+          <mxGeometry x="28" y="564" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-9" value="99starz DAO" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="740" y="354" width="120" height="120" as="geometry" />
+          <mxGeometry x="713" y="534" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-10" target="CwHaMfXqF2rZw4a0Jr2v-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-10" value="Z Game DAO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="284" width="120" height="40" as="geometry" />
+          <mxGeometry x="713" y="464" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-11" target="CwHaMfXqF2rZw4a0Jr2v-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-11" value="Y Game DAO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="199" width="120" height="40" as="geometry" />
+          <mxGeometry x="713" y="379" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-12" target="CwHaMfXqF2rZw4a0Jr2v-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-12" value="X Game DAO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="149" width="120" height="40" as="geometry" />
+          <mxGeometry x="713" y="329" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-15" target="CwHaMfXqF2rZw4a0Jr2v-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,40 +61,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-15" value="99starz NFT wrapper" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="139" width="200" height="60" as="geometry" />
+          <mxGeometry x="252" y="319" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-16" target="CwHaMfXqF2rZw4a0Jr2v-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-16" value="Storage Enumeration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="244" width="200" height="40" as="geometry" />
+          <mxGeometry x="252" y="424" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-18" target="CwHaMfXqF2rZw4a0Jr2v-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-18" value="IERC 4097" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="40" width="200" height="60" as="geometry" />
+          <mxGeometry x="252" y="220" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwHaMfXqF2rZw4a0Jr2v-22" target="CwHaMfXqF2rZw4a0Jr2v-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-22" value="&lt;b&gt;Mint&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="557" y="110" width="120" height="51" as="geometry" />
+          <mxGeometry x="530" y="290" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="CwHaMfXqF2rZw4a0Jr2v-23" value="&lt;b&gt;Burn&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="557" y="180" width="120" height="51" as="geometry" />
+          <mxGeometry x="530" y="360" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-1" value="X Game Vault" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="713" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-6" value="X Game Dapp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slcEtXl4ANhl4ZLk67iS-7" target="CwHaMfXqF2rZw4a0Jr2v-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="slcEtXl4ANhl4ZLk67iS-7" value="99Starz&lt;br&gt;&amp;nbsp;provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="384" width="120" height="60" as="geometry" />
+          <mxGeometry x="132" y="564" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
