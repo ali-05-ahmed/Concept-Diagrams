@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T18:11:12.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LSO921YYJHe1-___1HLj" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T18:12:30.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cGVhH-eGJxoCacKMkGfS" version="24.0.6" type="github">
   <diagram name="Page-1" id="kQMQTXATmenSAZyp5msM">
-    <mxGraphModel dx="2722" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,13 @@
           <mxGeometry x="-346" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oUvKnUqJZTMTFXycQhW--29" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-176" y="100" width="60" height="80" as="geometry" />
+          <mxGeometry x="-176" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oUvKnUqJZTMTFXycQhW--31" value="mempool" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-176" y="210" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oUvKnUqJZTMTFXycQhW--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oUvKnUqJZTMTFXycQhW--17" target="oUvKnUqJZTMTFXycQhW--31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
