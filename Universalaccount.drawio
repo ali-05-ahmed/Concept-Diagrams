@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T18:01:47.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="n5LYWDpGkgdY8UpfeAiG" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T18:05:23.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="P7j9kT2QJmGfiaEScFgL" version="24.7.1" type="github">
   <diagram name="Page-1" id="M1t9FGvkU17HdAlIoPvs">
-    <mxGraphModel dx="1196" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,6 +32,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ed4Wh0j3ZcqlSjC6VKng-43" value="handle userOps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ed4Wh0j3ZcqlSjC6VKng-38">
+          <mxGeometry x="0.0037" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ed4Wh0j3ZcqlSjC6VKng-9" value="&lt;b&gt;Bundler&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1781" y="703" width="93" height="106" as="geometry" />
         </mxCell>
@@ -50,6 +55,11 @@
               <mxPoint x="2271" y="562.5" />
               <mxPoint x="2271" y="1057" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ed4Wh0j3ZcqlSjC6VKng-44" value="Universal IBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ed4Wh0j3ZcqlSjC6VKng-39">
+          <mxGeometry x="-0.5413" y="2" relative="1" as="geometry">
+            <mxPoint x="-3" y="150" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ed4Wh0j3ZcqlSjC6VKng-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ed4Wh0j3ZcqlSjC6VKng-15" target="ed4Wh0j3ZcqlSjC6VKng-4">
@@ -132,6 +142,9 @@
         </mxCell>
         <mxCell id="ed4Wh0j3ZcqlSjC6VKng-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ed4Wh0j3ZcqlSjC6VKng-11" target="ed4Wh0j3ZcqlSjC6VKng-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ed4Wh0j3ZcqlSjC6VKng-42" value="&lt;span style=&quot;font-size: 64px; white-space-collapse: preserve;&quot; id=&quot;docs-internal-guid-959a6f91-7fff-b8e9-4861-ab606f9bcb6d&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.08; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;font face=&quot;Barlow, sans-serif&quot; color=&quot;#ff9e44&quot;&gt;&lt;b&gt;Universal Account&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1638" y="991" width="579" height="86.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
