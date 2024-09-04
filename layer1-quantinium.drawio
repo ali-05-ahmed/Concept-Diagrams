@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="FxBBNrkQLF-FEdFj6mu-">
-    <mxGraphModel dx="1170" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,16 +71,18 @@
         <mxCell id="xZK3O00M8n8B7UsS9KFt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-4" target="xZK3O00M8n8B7UsS9KFt-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xZK3O00M8n8B7UsS9KFt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-11" target="xZK3O00M8n8B7UsS9KFt-8">
+        <mxCell id="xZK3O00M8n8B7UsS9KFt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;exitX=-0.104;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-11">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.0000000000001" y="788" as="sourcePoint" />
+            <mxPoint x="330" y="398" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="276" y="783" />
-              <mxPoint x="276" y="393" />
+              <mxPoint x="250" y="789" />
+              <mxPoint x="250" y="398" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZK3O00M8n8B7UsS9KFt-15" value="Beacon/Witnes Event" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="603.5" width="90" height="30" as="geometry" />
+        <mxCell id="xZK3O00M8n8B7UsS9KFt-15" value="Beacon/Witness&lt;br&gt;Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="673" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="xZK3O00M8n8B7UsS9KFt-26" value="Data + ZK proof" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1002" y="353" width="60" height="30" as="geometry" />
@@ -357,6 +359,9 @@
         </mxCell>
         <mxCell id="xZK3O00M8n8B7UsS9KFt-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.047;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-143" target="xZK3O00M8n8B7UsS9KFt-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xZK3O00M8n8B7UsS9KFt-154" value="Beacon/Witness&lt;br&gt;Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="483" width="60" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
