@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="FxBBNrkQLF-FEdFj6mu-">
-    <mxGraphModel dx="4680" dy="2370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3120" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,17 +648,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZK3O00M8n8B7UsS9KFt-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-140">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="783.0100000000002" y="512.1219999999998" as="targetPoint" />
-            <mxPoint x="604" y="309.99666666666644" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="694" y="310.3299999999999" />
-              <mxPoint x="694" y="512.3299999999999" />
-              <mxPoint x="784" y="512.3299999999999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xZK3O00M8n8B7UsS9KFt-442" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-487" target="xZK3O00M8n8B7UsS9KFt-489">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -874,7 +863,7 @@
         <mxCell id="xZK3O00M8n8B7UsS9KFt-519" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-513" target="xZK3O00M8n8B7UsS9KFt-515">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xZK3O00M8n8B7UsS9KFt-513" value="Quantinium ZK&lt;br&gt;Prover" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xZK3O00M8n8B7UsS9KFt-513" value="Quantinium ZK&lt;br&gt;Verifier" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1615" y="1363.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xZK3O00M8n8B7UsS9KFt-523" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZK3O00M8n8B7UsS9KFt-515" target="xZK3O00M8n8B7UsS9KFt-521">
