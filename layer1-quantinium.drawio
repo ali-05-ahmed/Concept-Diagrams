@@ -991,8 +991,8 @@
         <mxCell id="xZK3O00M8n8B7UsS9KFt-586" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="xZK3O00M8n8B7UsS9KFt-583" target="xZK3O00M8n8B7UsS9KFt-582" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1168" y="220" />
-              <mxPoint x="1388" y="220" />
+              <mxPoint x="1168" y="160" />
+              <mxPoint x="1388" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1003,6 +1003,12 @@
         </mxCell>
         <mxCell id="xZK3O00M8n8B7UsS9KFt-583" value="Node X" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;" parent="1" vertex="1">
           <mxGeometry x="1148" y="264.62" width="40" height="44.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gp7Ba8n8PzU3l193xjEQ-1" target="xZK3O00M8n8B7UsS9KFt-581">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-1" value="Kademlia" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="190" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
