@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.11">
   <diagram name="Page-1" id="FxBBNrkQLF-FEdFj6mu-">
-    <mxGraphModel dx="1872" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1009,6 +1009,39 @@
         </mxCell>
         <mxCell id="Gp7Ba8n8PzU3l193xjEQ-1" value="Kademlia" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="1215" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-5" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-10">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-8" value="Oracle DHT" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.table;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-10">
+          <mxGeometry x="35" y="8" width="20" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-12" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-11">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-13" value="Oracle DHT" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.table;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-11">
+          <mxGeometry x="35" y="8" width="20" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="285" y="680" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-15" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-14">
+          <mxGeometry width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-16" value="Oracle DHT" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.table;" vertex="1" parent="Gp7Ba8n8PzU3l193xjEQ-14">
+          <mxGeometry x="35" y="8" width="20" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gp7Ba8n8PzU3l193xjEQ-15" target="xZK3O00M8n8B7UsS9KFt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp7Ba8n8PzU3l193xjEQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gp7Ba8n8PzU3l193xjEQ-5" target="xZK3O00M8n8B7UsS9KFt-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
