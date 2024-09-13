@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="8HVVYqKfXhcnhw4byhm_">
-    <mxGraphModel dx="3798" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5235" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dPlBs3OxKMqILGhpUdvq-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1995" y="-1210" width="1440" height="1100" as="geometry" />
+          <mxGeometry x="-3930" y="170" width="1200" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="dPlBs3OxKMqILGhpUdvq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dPlBs3OxKMqILGhpUdvq-1" target="dPlBs3OxKMqILGhpUdvq-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,6 +239,9 @@
         <mxCell id="gFVc1AAmk8zruogiBaDs-3" value="World Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="146.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-4" target="gFVc1AAmk8zruogiBaDs-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-4" value="World&lt;br&gt;Signer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="151" width="80" height="51" as="geometry" />
         </mxCell>
@@ -267,7 +270,7 @@
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-20" value="Stake Asset witth MiniApp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gFVc1AAmk8zruogiBaDs-19">
           <mxGeometry x="-0.2306" y="2" relative="1" as="geometry">
-            <mxPoint x="21" y="1" as="offset" />
+            <mxPoint x="14" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-11" value="Create Kresus Vault Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -276,11 +279,11 @@
         <mxCell id="gFVc1AAmk8zruogiBaDs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-13" target="gFVc1AAmk8zruogiBaDs-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFVc1AAmk8zruogiBaDs-13" value="Bridge Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gFVc1AAmk8zruogiBaDs-13" value="Bridge World Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="366.75" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-18" value="Stake Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="236.5" width="120" height="39" as="geometry" />
+          <mxGeometry x="-893" y="236.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MiniApp Flow&lt;/h1&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="70" width="180" height="40" as="geometry" />
@@ -292,7 +295,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-22" value="Swing API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="360.75" width="80" height="51" as="geometry" />
+          <mxGeometry x="-873" y="360.75" width="80" height="51" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-30" target="gFVc1AAmk8zruogiBaDs-31">
           <mxGeometry relative="1" as="geometry" />
@@ -368,12 +371,12 @@
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-22" target="gFVc1AAmk8zruogiBaDs-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-800" y="361" as="sourcePoint" />
-            <mxPoint x="-800" y="276" as="targetPoint" />
+            <mxPoint x="-833" y="361" as="sourcePoint" />
+            <mxPoint x="-833" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-51" value="Kresus Stake Feature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-875" y="299.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="-908" y="299.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-53" target="gFVc1AAmk8zruogiBaDs-56">
           <mxGeometry relative="1" as="geometry" />
@@ -467,6 +470,12 @@
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-79" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-593" y="981" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-84" target="gFVc1AAmk8zruogiBaDs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-84" value="Bridge&lt;br&gt;callData&lt;br&gt;transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-768" y="360.75" width="80" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
