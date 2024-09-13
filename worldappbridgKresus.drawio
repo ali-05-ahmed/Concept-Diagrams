@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="8HVVYqKfXhcnhw4byhm_">
-    <mxGraphModel dx="3990" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3798" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dPlBs3OxKMqILGhpUdvq-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1930" y="-10" width="850" height="1100" as="geometry" />
+          <mxGeometry x="-1995" y="-1210" width="1440" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="dPlBs3OxKMqILGhpUdvq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dPlBs3OxKMqILGhpUdvq-1" target="dPlBs3OxKMqILGhpUdvq-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -222,13 +222,13 @@
           <mxGeometry x="595.5" y="719.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dPlBs3OxKMqILGhpUdvq-79" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Kresus Stake/Earn&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="24" y="20" width="193" height="70" as="geometry" />
+          <mxGeometry x="-1540" y="487" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-2" target="gFVc1AAmk8zruogiBaDs-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-2" value="World App" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
-          <mxGeometry x="-770.5" y="367.25" width="41" height="78" as="geometry" />
+          <mxGeometry x="-1480.5" y="347.25" width="41" height="78" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-3" target="gFVc1AAmk8zruogiBaDs-2">
           <mxGeometry relative="1" as="geometry" />
@@ -237,10 +237,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-3" value="World Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="180.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1520" y="146.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-4" value="World&lt;br&gt;Signer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="185" width="80" height="51" as="geometry" />
+          <mxGeometry x="-1340" y="151" width="80" height="51" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-7" target="gFVc1AAmk8zruogiBaDs-8">
           <mxGeometry relative="1" as="geometry" />
@@ -249,13 +249,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-7" value="Kresus Magic Signer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-8" target="gFVc1AAmk8zruogiBaDs-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-29" value="To Base" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gFVc1AAmk8zruogiBaDs-16">
+          <mxGeometry x="-0.2459" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-8" value="MiniApp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="376.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="356.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-11" target="gFVc1AAmk8zruogiBaDs-18">
           <mxGeometry relative="1" as="geometry" />
@@ -266,28 +271,202 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-11" value="Create Kresus Vault Address" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1160" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-13" target="gFVc1AAmk8zruogiBaDs-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-13" value="Bridge Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="386.75" width="120" height="39" as="geometry" />
+          <mxGeometry x="-1160" y="366.75" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-18" value="Stake Asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="290.5" width="120" height="39" as="geometry" />
+          <mxGeometry x="-860" y="236.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MiniApp Flow&lt;/h1&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="110" width="180" height="40" as="geometry" />
+          <mxGeometry x="-1540" y="70" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-22" target="gFVc1AAmk8zruogiBaDs-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gFVc1AAmk8zruogiBaDs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-22" target="gFVc1AAmk8zruogiBaDs-18">
+        <mxCell id="gFVc1AAmk8zruogiBaDs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-51" target="gFVc1AAmk8zruogiBaDs-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gFVc1AAmk8zruogiBaDs-22" value="Swing API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="380.75" width="80" height="51" as="geometry" />
+          <mxGeometry x="-840" y="360.75" width="80" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-30" target="gFVc1AAmk8zruogiBaDs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-30" target="gFVc1AAmk8zruogiBaDs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-30" value="Kresus Vault&lt;br&gt;USDC or ETH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="597.75" width="130" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-31" target="gFVc1AAmk8zruogiBaDs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-31" target="gFVc1AAmk8zruogiBaDs-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-49" value="Cross chain Staking&lt;br&gt;Requires &lt;br&gt;Kresus Multichain compatibility" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gFVc1AAmk8zruogiBaDs-48">
+          <mxGeometry x="-0.5052" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-31" value="Swing API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="633.5" width="80" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-33" target="gFVc1AAmk8zruogiBaDs-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-33" value="X Staking&lt;br&gt;Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="563.5" width="80" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-35" target="gFVc1AAmk8zruogiBaDs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-35" value="Aave Integrator" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="739" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-37" target="gFVc1AAmk8zruogiBaDs-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1335" y="719.5" />
+              <mxPoint x="-1250" y="719.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-37" value="X Integrator" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1375" y="739" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-38" target="gFVc1AAmk8zruogiBaDs-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1165" y="719.5" />
+              <mxPoint x="-1250" y="719.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-38" value="Y Integrator" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1205" y="739" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-41" target="gFVc1AAmk8zruogiBaDs-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-41" value="Stake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1085" y="582.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-44" target="gFVc1AAmk8zruogiBaDs-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-44" value="Bridge &amp;amp; Stake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1085" y="628.75" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-50" value="Same chain Staking" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1155.0015151515145" y="579.5048484848485" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-22" target="gFVc1AAmk8zruogiBaDs-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="361" as="sourcePoint" />
+            <mxPoint x="-800" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-51" value="Kresus Stake Feature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="299.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-53" target="gFVc1AAmk8zruogiBaDs-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-53" target="gFVc1AAmk8zruogiBaDs-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-53" value="Selected&lt;br&gt;Stake&lt;br&gt;Platform" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="582.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-56" target="gFVc1AAmk8zruogiBaDs-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-60" value="Swap stETH&lt;div&gt;if Required&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gFVc1AAmk8zruogiBaDs-59">
+          <mxGeometry x="0.1153" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-56" target="gFVc1AAmk8zruogiBaDs-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-56" target="gFVc1AAmk8zruogiBaDs-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-56" value="Staked Tokens&lt;div&gt;e.g stETH&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="752.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-58" target="gFVc1AAmk8zruogiBaDs-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1025" y="881.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-58" value="Restaking Platforms" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1085" y="752.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-61" target="gFVc1AAmk8zruogiBaDs-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-61" value="Reward" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="851.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-64" target="gFVc1AAmk8zruogiBaDs-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-64" target="gFVc1AAmk8zruogiBaDs-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-64" value="Kresus Stake Path&lt;div&gt;API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="592.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-545" y="782.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-65" value="Track" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="752.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-69" value="Store Stake Path" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-694.9962162162162" y="689.4999999999998" as="geometry">
+            <mxPoint x="8" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-70" value="Calculate Path APR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="497" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-72" target="gFVc1AAmk8zruogiBaDs-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-72" value="WithDraw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="862" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-74" target="gFVc1AAmk8zruogiBaDs-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-81" value="For Each Stake And Restake" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gFVc1AAmk8zruogiBaDs-78">
+          <mxGeometry x="-0.1466" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-74" value="Get Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-593" y="752.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFVc1AAmk8zruogiBaDs-76" target="gFVc1AAmk8zruogiBaDs-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-76" value="Encode CallData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-593" y="862" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="gFVc1AAmk8zruogiBaDs-79" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-593" y="981" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
