@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="_EdBeL_A0eybRXGSDDRf">
-    <mxGraphModel dx="1702" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3120" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,11 +20,6 @@
             <Array as="points">
               <mxPoint x="555" y="354" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fFqnCry0Cv4FBEyFgxTx-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jsa2PGFb5WfUZXhi66Lg-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jsa2PGFb5WfUZXhi66Lg-2" value="Global node" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -879,9 +874,6 @@
         </mxCell>
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-222" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" parent="1" vertex="1">
           <mxGeometry x="366" y="150" width="118" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="fFqnCry0Cv4FBEyFgxTx-224" value="Selected Global node" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="800" y="73" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fFqnCry0Cv4FBEyFgxTx-231" target="fFqnCry0Cv4FBEyFgxTx-265" edge="1">
           <mxGeometry relative="1" as="geometry" />
