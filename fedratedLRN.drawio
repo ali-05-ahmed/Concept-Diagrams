@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="_EdBeL_A0eybRXGSDDRf">
-    <mxGraphModel dx="891" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,7 +340,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jnEEq83WCMKG9tmz8fa2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-54" target="fFqnCry0Cv4FBEyFgxTx-236">
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-54" target="fFqnCry0Cv4FBEyFgxTx-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-77" value="Global&lt;br&gt;Node" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -1023,7 +1023,7 @@
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-278" value="AI contact&lt;br&gt;Discovery ledger" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="2661" y="1330" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fFqnCry0Cv4FBEyFgxTx-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fFqnCry0Cv4FBEyFgxTx-235" target="fFqnCry0Cv4FBEyFgxTx-283" edge="1">
+        <mxCell id="fFqnCry0Cv4FBEyFgxTx-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="fFqnCry0Cv4FBEyFgxTx-235" target="fFqnCry0Cv4FBEyFgxTx-283" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2441" y="1340" as="sourcePoint" />
             <mxPoint x="2441" y="1010" as="targetPoint" />
@@ -1038,8 +1038,14 @@
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-283" value="AIVM LLM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2386" y="1036" width="110" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-85" target="fFqnCry0Cv4FBEyFgxTx-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-286" value="Query" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2646" y="1086" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFqnCry0Cv4FBEyFgxTx-287" target="fFqnCry0Cv4FBEyFgxTx-276">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fFqnCry0Cv4FBEyFgxTx-287" value="Contract Initializer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2646" y="1016" width="120" height="60" as="geometry" />
@@ -1244,6 +1250,15 @@
               <mxPoint x="1780" y="1656" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fFqnCry0Cv4FBEyFgxTx-286" target="jnEEq83WCMKG9tmz8fa2-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2766" y="1116" as="sourcePoint" />
+            <mxPoint x="3114" y="1204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-85" value="Contract Call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2846" y="1086" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
