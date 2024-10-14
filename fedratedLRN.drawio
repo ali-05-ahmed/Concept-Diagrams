@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="_EdBeL_A0eybRXGSDDRf">
-    <mxGraphModel dx="2863" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,7 +921,10 @@
         <mxCell id="jnEEq83WCMKG9tmz8fa2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-54" target="jnEEq83WCMKG9tmz8fa2-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jnEEq83WCMKG9tmz8fa2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-54" target="fFqnCry0Cv4FBEyFgxTx-290">
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-139" target="fFqnCry0Cv4FBEyFgxTx-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-54" target="jnEEq83WCMKG9tmz8fa2-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jnEEq83WCMKG9tmz8fa2-54" value="Subnet Cordinator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1079,7 +1082,7 @@
           <mxGeometry x="1690" y="1457.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnEEq83WCMKG9tmz8fa2-132" value="Task X" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1385" width="120" height="60" as="geometry" />
+          <mxGeometry x="1527" y="1387" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jnEEq83WCMKG9tmz8fa2-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnEEq83WCMKG9tmz8fa2-130" target="jnEEq83WCMKG9tmz8fa2-133">
           <mxGeometry relative="1" as="geometry">
@@ -1088,10 +1091,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jnEEq83WCMKG9tmz8fa2-133" value="Task Y" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1528" y="1455" width="120" height="60" as="geometry" />
+          <mxGeometry x="1528" y="1457" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jnEEq83WCMKG9tmz8fa2-135" value="Task z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1528" y="1527" width="120" height="60" as="geometry" />
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-135" value="Task Z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1528" y="1529" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-136" value="Response X" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-137" value="Response&amp;nbsp;Y" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1358" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-138" value="Response Z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1358" y="1332" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnEEq83WCMKG9tmz8fa2-139" value="Response&amp;nbsp;&lt;br&gt;Aggregator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
