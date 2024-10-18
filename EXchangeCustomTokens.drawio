@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="4DHFi4yc1U27s_IXjOMK">
-    <mxGraphModel dx="1485" dy="-1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="-1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,12 @@
         <mxCell id="IxbIi8sT8XrTpdJx3G0z-92" value="Platform Operation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="388" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxbIi8sT8XrTpdJx3G0z-94" value="Watch Asset" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IxbIi8sT8XrTpdJx3G0z-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IxbIi8sT8XrTpdJx3G0z-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IxbIi8sT8XrTpdJx3G0z-94" value="Watch Asset" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="188" y="2510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IxbIi8sT8XrTpdJx3G0z-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IxbIi8sT8XrTpdJx3G0z-96" target="IxbIi8sT8XrTpdJx3G0z-101">
@@ -76,13 +81,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IxbIi8sT8XrTpdJx3G0z-96" value="Buy/Sell" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IxbIi8sT8XrTpdJx3G0z-96" value="Buy/Sell" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="388" y="2640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IxbIi8sT8XrTpdJx3G0z-100" value="History" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IxbIi8sT8XrTpdJx3G0z-100" value="History" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="2510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IxbIi8sT8XrTpdJx3G0z-101" value="Service Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxbIi8sT8XrTpdJx3G0z-101" value="Service Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="110" y="2740" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IxbIi8sT8XrTpdJx3G0z-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.871;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IxbIi8sT8XrTpdJx3G0z-100" target="IxbIi8sT8XrTpdJx3G0z-101">
