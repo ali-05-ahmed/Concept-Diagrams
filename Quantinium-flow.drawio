@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="w2wgUixRn5SNA8yjD89T">
-    <mxGraphModel dx="1863" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5306" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-9" target="xLCkrp8KcXFFq_XhmdWr-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-9" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-9" value="Sign up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.65" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-10" target="xLCkrp8KcXFFq_XhmdWr-25">
@@ -185,7 +185,7 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-55" target="xLCkrp8KcXFFq_XhmdWr-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-55" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-55" value="Sign up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.65" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-56" value="Create Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -196,20 +196,109 @@
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="840" as="targetPoint" />
+            <mxPoint x="740" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-60" value="Broadcast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="964" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-64" value="Router" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
-          <mxGeometry x="925" y="855.5" width="50" height="39" as="geometry" />
+          <mxGeometry x="715" y="855.5" width="50" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-66" value="Quantinium Firmware" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="852.75" width="48.18" height="44.5" as="geometry" />
+          <mxGeometry x="850" y="852.75" width="48.18" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.067;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-66" target="xLCkrp8KcXFFq_XhmdWr-64">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-70" value="Valid Nettwork Wifi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-66" target="xLCkrp8KcXFFq_XhmdWr-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="874" y="992" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-73" value="Firmware Detected" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xLCkrp8KcXFFq_XhmdWr-72">
+          <mxGeometry x="-0.2103" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-74" value="Quantium&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;&amp;nbsp;Consumer Journey&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1092.65" y="180" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-75" value="Subscription&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1242.65" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1372.65" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-77" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1257.65" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-80" target="xLCkrp8KcXFFq_XhmdWr-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-80" target="xLCkrp8KcXFFq_XhmdWr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-80" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1372.65" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-81" value="Create Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1322.65" y="330" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-82" value="User Metadata&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt; font-family: Roboto;&quot;&gt;&lt;br&gt;{Phone Number, Username}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1452.65" y="330" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-84" target="xLCkrp8KcXFFq_XhmdWr-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1072.65" y="210" />
+              <mxPoint x="1072.65" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-84" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot;&gt;Wallet&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-85" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WIFI&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="1032.65" y="259.5" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-86" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Challenge&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1027.5" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-87" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;App Components&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1062.65" y="270" as="sourcePoint" />
+            <mxPoint x="1092.65" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1072.65" y="270" />
+              <mxPoint x="1072.65" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1072.65" y="340" as="sourcePoint" />
+            <mxPoint x="1092.65" y="339.92" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1072.65" y="339.92" />
+              <mxPoint x="1072.65" y="339.92" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
