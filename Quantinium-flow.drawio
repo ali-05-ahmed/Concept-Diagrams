@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="w2wgUixRn5SNA8yjD89T">
-    <mxGraphModel dx="1487" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1255" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-2" value="Quantinium Hostspot Registion portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="90" width="100" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-3" value="Onboarding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-3" value="Onboarding/Wallet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332.65" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-4">
@@ -124,7 +124,7 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-35" value="QDC/QUSD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="553.9" y="513.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-43" value="Quantium&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;&amp;nbsp;Consumer Journey&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-43" value="Quantium&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;&amp;nbsp;Provider&lt;br&gt;&amp;nbsp;Journey&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182.65" y="690" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-45" target="xLCkrp8KcXFFq_XhmdWr-43">
@@ -166,6 +166,50 @@
               <mxPoint x="162.65" y="849.9200000000001" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-51" target="xLCkrp8KcXFFq_XhmdWr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-51" value="Provider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="347.65" y="720" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-52" value="Onboarding/Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332.65" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-55" target="xLCkrp8KcXFFq_XhmdWr-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-55" target="xLCkrp8KcXFFq_XhmdWr-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-55" target="xLCkrp8KcXFFq_XhmdWr-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-55" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.65" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-56" value="Create Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.65" y="840" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-57" value="User Metadata&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt; font-family: Roboto;&quot;&gt;&lt;br&gt;{Phone Number, Username}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542.65" y="840" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-60" value="Broadcast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-64" value="Router" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
+          <mxGeometry x="925" y="855.5" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-66" value="Firmware" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="852.75" width="48.18" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.067;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-66" target="xLCkrp8KcXFFq_XhmdWr-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
