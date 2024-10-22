@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="w2wgUixRn5SNA8yjD89T">
-    <mxGraphModel dx="2161" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1487" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,49 @@
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-35" value="QDC/QUSD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="553.9" y="513.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-43" value="Quantium&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;&amp;nbsp;Consumer Journey&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.65" y="690" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-45" target="xLCkrp8KcXFFq_XhmdWr-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162.65" y="720" />
+              <mxPoint x="162.65" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-45" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot;&gt;Wallet&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="710" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-46" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WIFI&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="122.65" y="769.5" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-47" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Challenge&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="830" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;App Components&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="660" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152.65" y="780" as="sourcePoint" />
+            <mxPoint x="182.65" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="162.65" y="780" />
+              <mxPoint x="162.65" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.65" y="850" as="sourcePoint" />
+            <mxPoint x="182.65" y="849.9200000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="162.65" y="849.9200000000001" />
+              <mxPoint x="162.65" y="849.9200000000001" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
