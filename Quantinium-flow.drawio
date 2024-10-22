@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="w2wgUixRn5SNA8yjD89T">
-    <mxGraphModel dx="1964" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2161" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-1" value="Quantium Consumer&lt;div&gt;Application&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-1" value="Quantium&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;&amp;nbsp;Consumer Journey&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182.65" y="180" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-2" value="Quantinium Hostspot Registion portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/qrcode-scan-128.png" vertex="1" parent="1">
           <mxGeometry x="555.15" y="430" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-25" target="xLCkrp8KcXFFq_XhmdWr-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-25" value="Transfer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="397.65" y="443.75" width="120" height="37.5" as="geometry" />
