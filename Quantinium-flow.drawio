@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="w2wgUixRn5SNA8yjD89T">
-    <mxGraphModel dx="1591" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2025" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,7 +671,7 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-205" target="xLCkrp8KcXFFq_XhmdWr-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-205" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" vertex="1" parent="1">
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-205" value="MAP" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgMap;strokeColor=#18211b;strokeColor2=#008cff;fillColor2=#96D1FF;" vertex="1" parent="1">
           <mxGeometry x="1120.24" y="1655.05" width="79" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-206" value="Navigation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -704,7 +704,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-214" value="Price Feed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="576" y="1821" width="120" height="60" as="geometry" />
+          <mxGeometry x="555.15" y="1820.55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-216" target="xLCkrp8KcXFFq_XhmdWr-218">
           <mxGeometry relative="1" as="geometry" />
@@ -724,6 +724,9 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-221" target="xLCkrp8KcXFFq_XhmdWr-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-221" target="xLCkrp8KcXFFq_XhmdWr-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-221" value="Hotspot data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382.65" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -736,19 +739,23 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-224" value="Data Transmision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555.1500000000001" y="1630.05" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-228" target="xLCkrp8KcXFFq_XhmdWr-221">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xLCkrp8KcXFFq_XhmdWr-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-228" target="xLCkrp8KcXFFq_XhmdWr-214">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="1850" />
-              <mxPoint x="534" y="1851" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-228" value="Node RPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.6500000000001" y="1710" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-214" target="xLCkrp8KcXFFq_XhmdWr-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-234" value="Mapbox" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1252.65" y="1692.57" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-235" value="Google maps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1252.65" y="1722.52" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-234" target="xLCkrp8KcXFFq_XhmdWr-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.034;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-235" target="xLCkrp8KcXFFq_XhmdWr-205">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
