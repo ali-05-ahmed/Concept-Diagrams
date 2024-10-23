@@ -546,6 +546,9 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-153" value="User Metadata&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9pt; font-family: Roboto;&quot;&gt;&lt;br&gt;{Phone Number, Username}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397.65" y="1160" width="90" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-155" target="xLCkrp8KcXFFq_XhmdWr-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-155" value="Swap" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="727.15" y="1249" width="120" height="37.5" as="geometry" />
         </mxCell>
@@ -771,6 +774,9 @@
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-240" target="xLCkrp8KcXFFq_XhmdWr-243">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-240" target="xLCkrp8KcXFFq_XhmdWr-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-240" value="Delist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010.24" y="1937.5" width="120" height="25" as="geometry" />
         </mxCell>
@@ -793,6 +799,33 @@
         </mxCell>
         <mxCell id="xLCkrp8KcXFFq_XhmdWr-247" value="Valid Nettwork Wifi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827.24" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-249" target="xLCkrp8KcXFFq_XhmdWr-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-249" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smartphone-signal-5g-trading/64/Smartphone_NFC-128.png" vertex="1" parent="1">
+          <mxGeometry x="907.2399999999999" y="1300.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-251" target="xLCkrp8KcXFFq_XhmdWr-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-251" value="Reward" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1010.24" y="1870" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-254" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1859" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-256" value="Challenger Wallet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1829" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-257" value="Pools" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040.24" y="1237.75" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLCkrp8KcXFFq_XhmdWr-259" target="xLCkrp8KcXFFq_XhmdWr-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLCkrp8KcXFFq_XhmdWr-259" value="Least Cost Routing Algorithm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522.58" y="1920" width="185.15" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
