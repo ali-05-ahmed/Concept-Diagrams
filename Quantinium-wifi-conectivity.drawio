@@ -90,7 +90,7 @@
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-17" target="Ep8yIvTjPsPDa4GQn4Le-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-17" value="Radius Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.radius_server;" vertex="1" parent="1">
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-17" value="Quantinium Radius Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.radius_server;" vertex="1" parent="1">
           <mxGeometry x="376" y="244.5" width="75.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-20" target="Ep8yIvTjPsPDa4GQn4Le-5">
