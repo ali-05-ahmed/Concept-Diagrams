@@ -1,9 +1,74 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="beGcIfY0jQds48D-uG38">
-    <mxGraphModel>
+    <mxGraphModel dx="1433" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-1" target="Ep8yIvTjPsPDa4GQn4Le-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-1" value="DDwrt" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-2" target="Ep8yIvTjPsPDa4GQn4Le-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="270" />
+              <mxPoint x="220" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-4" value="Connect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ep8yIvTjPsPDa4GQn4Le-3">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="242.5" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-5" target="Ep8yIvTjPsPDa4GQn4Le-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-5" value="Onchain Auth server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="526" y="265" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-7" target="Ep8yIvTjPsPDa4GQn4Le-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="776" y="250" />
+              <mxPoint x="776" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-12" value="Transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ep8yIvTjPsPDa4GQn4Le-10">
+          <mxGeometry x="-0.1217" y="-2" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-7" value="QTI Tokens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-9" target="Ep8yIvTjPsPDa4GQn4Le-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-9" value="Platform Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="310" as="sourcePoint" />
+            <mxPoint x="260" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+              <mxPoint x="220" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-16" value="Verified" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ep8yIvTjPsPDa4GQn4Le-15">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
