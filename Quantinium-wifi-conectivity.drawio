@@ -19,7 +19,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-1" value="DDwrt" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-1" value="Quantinium hotspot&lt;br&gt;(DDwrt)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="211" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-2" target="Ep8yIvTjPsPDa4GQn4Le-1">
@@ -63,7 +63,7 @@
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-9" target="Ep8yIvTjPsPDa4GQn4Le-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-9" value="Platform Wallet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-9" value="Qunatinium Treasury&lt;div&gt;Wallet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="697" y="310" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
@@ -98,6 +98,15 @@
         </mxCell>
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-20" value="User Managment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="363.75" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" vertex="1" parent="1">
+          <mxGeometry x="717" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-26" target="Ep8yIvTjPsPDa4GQn4Le-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-26" value="user waller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="717" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
