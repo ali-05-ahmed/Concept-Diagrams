@@ -35,7 +35,7 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Ep8yIvTjPsPDa4GQn4Le-2" value="&lt;font color=&quot;#000000&quot;&gt;User&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="11" y="242.5" width="50" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Ep8yIvTjPsPDa4GQn4Le-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ep8yIvTjPsPDa4GQn4Le-5" target="Ep8yIvTjPsPDa4GQn4Le-7">
