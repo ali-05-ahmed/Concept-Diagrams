@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="ZcM1c1OyfbNyQ4X9vBPm">
-    <mxGraphModel dx="1103" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="sTIXPdBSs6SXcwON2mOI-43" value="Quantinuim Attestation Service&#xa;The base layer where schemas are registered and how attestations are made." style="strokeColor=#82b366;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="606.72" y="1680" width="493.12" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sTIXPdBSs6SXcwON2mOI-45" value="Settlement Layer&#xa;Where attestation transactions are settled and verified.&#xa;Quantinium Layer2" style="strokeColor=#666666;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="sTIXPdBSs6SXcwON2mOI-45" value="Settlement Layer&#xa;Where attestation transactions are settled and verified.&#xa;Quantinium Layer2" style="strokeColor=#666666;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560" y="1760" width="576.56" height="80" as="geometry" />
         </mxCell>
       </root>
