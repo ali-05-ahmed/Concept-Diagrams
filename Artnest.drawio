@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="UNfFMvL5pD2w75PdCxZr">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c3O23xLSecAg04057RBw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-1" target="c3O23xLSecAg04057RBw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-1" target="c3O23xLSecAg04057RBw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-1" value="ERC20" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-2" value="DAO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-3" target="c3O23xLSecAg04057RBw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-3" target="c3O23xLSecAg04057RBw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-3" value="Supply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-6" target="c3O23xLSecAg04057RBw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-6" value="Token Distribution" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-8" value="DAO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-9" value="DAO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-10" target="c3O23xLSecAg04057RBw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-10" value="Multichain" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-11" target="c3O23xLSecAg04057RBw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-11" value="Deploy Create2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-15" target="c3O23xLSecAg04057RBw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-15" value="Dex Integration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-17" target="c3O23xLSecAg04057RBw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-17" value="Price Oracle&lt;br&gt;esrvice" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="750" y="492.5" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-19" value="Artnest Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="522.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-20" target="c3O23xLSecAg04057RBw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wagmi.sh/logo-dark.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="472.5" width="93.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-28" target="c3O23xLSecAg04057RBw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xMLQiuUZQkpr9p26GX1QASfazcbOs9FvqQ&amp;s;" vertex="1" parent="1">
+          <mxGeometry x="34.25" y="582.5" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3O23xLSecAg04057RBw-31" target="c3O23xLSecAg04057RBw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3O23xLSecAg04057RBw-31" value="Artnest Backend Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="522.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
