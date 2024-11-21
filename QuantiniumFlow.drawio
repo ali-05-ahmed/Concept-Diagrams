@@ -156,7 +156,7 @@
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-119" target="Ozfidg9L5e0_FbRfMXhM-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ozfidg9L5e0_FbRfMXhM-119" value="Reestablish Q-Spot" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ozfidg9L5e0_FbRfMXhM-119" value="Reestablish Q-Spot Payment Ownership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1547.5" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-121" target="Ozfidg9L5e0_FbRfMXhM-119" edge="1">
@@ -207,7 +207,7 @@
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-133" target="Ozfidg9L5e0_FbRfMXhM-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ozfidg9L5e0_FbRfMXhM-133" value="Reestablish Q-Spot" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ozfidg9L5e0_FbRfMXhM-133" value="Reestablish Q-Spot Payment Ownership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1547.5" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-134" target="Ozfidg9L5e0_FbRfMXhM-133" edge="1">
@@ -242,7 +242,7 @@
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-148" target="Ozfidg9L5e0_FbRfMXhM-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ozfidg9L5e0_FbRfMXhM-148" value="Reestablish Q-Spot" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ozfidg9L5e0_FbRfMXhM-148" value="Reestablish Q-Spot Payment Ownership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1547.5" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-150" target="Ozfidg9L5e0_FbRfMXhM-148" edge="1">
@@ -280,11 +280,19 @@
         <mxCell id="qemn5KXeV45YSC-5foo--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qemn5KXeV45YSC-5foo--3" target="qemn5KXeV45YSC-5foo--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qemn5KXeV45YSC-5foo--7" value="Thrushold" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qemn5KXeV45YSC-5foo--6">
+          <mxGeometry x="-0.1436" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qemn5KXeV45YSC-5foo--3" value="Reputation Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1760" width="110" height="110" as="geometry" />
+          <mxGeometry x="1115" y="2050" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qemn5KXeV45YSC-5foo--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qemn5KXeV45YSC-5foo--5" target="Ozfidg9L5e0_FbRfMXhM-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qemn5KXeV45YSC-5foo--5" value="Delist Verified DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1362" y="1785" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
