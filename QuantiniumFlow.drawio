@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="vwX5oQGY4ok_pxgz0Uzp">
-    <mxGraphModel dx="743" dy="-349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2337" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-155" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2880" y="1150" width="1450" height="1670" as="geometry" />
+          <mxGeometry x="940" y="1130" width="1450" height="1670" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ozfidg9L5e0_FbRfMXhM-81" target="Ozfidg9L5e0_FbRfMXhM-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry x="2013.9999999999995" y="2630" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-156" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;Quantinium Warrant &amp;amp; Challenge&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1414" y="1180" width="600" height="60" as="geometry" />
+          <mxGeometry x="1365" y="1180" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ozfidg9L5e0_FbRfMXhM-161" value="Incremental" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1070" y="2569.996666666667" as="geometry">
