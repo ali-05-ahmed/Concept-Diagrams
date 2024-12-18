@@ -116,7 +116,7 @@
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-33" target="DtqDU-Rs7tbBezv1qBNo-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DtqDU-Rs7tbBezv1qBNo-33" value="Basic Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-33" value="Basic Q-Spot Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="834" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-34" target="DtqDU-Rs7tbBezv1qBNo-39">
@@ -175,7 +175,10 @@
           <mxGeometry x="680" y="175" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-52" value="AAA Node" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="37.29" y="126" width="73.5" height="84" as="geometry" />
+          <mxGeometry x="37.29" y="150" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.summation_point;" vertex="1" parent="1">
+          <mxGeometry x="507" y="869" width="31" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
