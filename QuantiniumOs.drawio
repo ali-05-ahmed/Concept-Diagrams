@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="_7sV9QFAIe0jzFR2gIEk">
-    <mxGraphModel dx="2284" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-1" value="Quantinium Wifi" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="120" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="223" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-3" target="DtqDU-Rs7tbBezv1qBNo-1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,44 +17,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-3" value="Quantinium OS" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEwIDBhMTAgMTAgMCAxIDAgMTAgMTBoMEExMCAxMCAwIDAgMCAxMCAwem0wIDE4YTggOCAwIDAgMS00LjE4LTEuMThsMy41OC0yLjA3aDB2LTQuNUw1LjUxIDh2NC41MmwyLjc1IDEuNTktMy40NiAyQTggOCAwIDAgMSA2LjA4IDN2NGgwTDEwIDkuMjggMTMuOSA3IDEwIDQuNzcgNy4yNCA2LjM2VjIuNDdhOCA4IDAgMCAxIDEwLjMxIDQuNyA4LjEgOC4xIDAgMCAxIC41MSAyLjgzdi4wN0wxNC40NiA4aDBsLTMuOSAyLjI2djQuNTFsMy45LTIuMjVWOS4zNGwzLjQ1IDJBOCA4IDAgMCAxIDEwIDE4eiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
-          <mxGeometry x="139" y="300" width="42" height="42" as="geometry" />
+          <mxGeometry x="242" y="310" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-5" target="DtqDU-Rs7tbBezv1qBNo-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-5" value="Quantinium data Oracle" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="496" width="79.69" height="92" as="geometry" />
+          <mxGeometry x="223" y="506" width="79.69" height="92" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-7" target="DtqDU-Rs7tbBezv1qBNo-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="686" y="476" />
+              <mxPoint x="789" y="486" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-7" target="DtqDU-Rs7tbBezv1qBNo-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-7" target="DtqDU-Rs7tbBezv1qBNo-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-7" value="Quantinium User App" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="155" width="32.5" height="50" as="geometry" />
+          <mxGeometry x="773" y="461" width="32.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="180" as="targetPoint" />
+            <mxPoint x="313" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-9" target="DtqDU-Rs7tbBezv1qBNo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-9" value="Connectivity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="463" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="322" as="targetPoint" />
+            <mxPoint x="303" y="332" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="322" />
-              <mxPoint x="330" y="322" />
+              <mxPoint x="433" y="332" />
+              <mxPoint x="433" y="332" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,42 +69,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-10" value="Authenticate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="463" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-11" value="Quantinium Radius server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.radius_server;" vertex="1" parent="1">
-          <mxGeometry x="-58" y="286" width="58.08" height="70" as="geometry" />
+          <mxGeometry x="45" y="296" width="58.08" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DtqDU-Rs7tbBezv1qBNo-16" value="Validate Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="456" width="160" height="40" as="geometry" />
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-16" value="Verify Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="466" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-22" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="30" height="30" as="geometry" />
+          <mxGeometry x="663" y="180" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-23" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="230" width="30" height="30" as="geometry" />
+          <mxGeometry x="508" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-24" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="306" width="30" height="30" as="geometry" />
+          <mxGeometry x="153" y="316" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-25" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="370" width="30" height="30" as="geometry" />
+          <mxGeometry x="508" y="380" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-26" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="145" y="370" width="30" height="30" as="geometry" />
+          <mxGeometry x="248" y="380" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="159.84000000000015" y="830" as="targetPoint" />
+            <mxPoint x="262.84000000000015" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-27" value="Per Epoch (any time : 1 day)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="127.34" y="660" width="65" height="60" as="geometry" />
+          <mxGeometry x="230.34" y="670" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-29" value="Aggregate Epoch Performance Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80.00000000000003" y="430" width="160" height="40" as="geometry" />
+          <mxGeometry x="183.00000000000003" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-30" target="DtqDU-Rs7tbBezv1qBNo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-30" target="DtqDU-Rs7tbBezv1qBNo-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-30" value="Quantinium L1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="126" y="840" width="68" height="68" as="geometry" />
+          <mxGeometry x="229" y="850" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-32" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="248" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-33" target="DtqDU-Rs7tbBezv1qBNo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-33" value="Basic Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="834" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-34" target="DtqDU-Rs7tbBezv1qBNo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-34" value="Performance Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="894" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-35" target="DtqDU-Rs7tbBezv1qBNo-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-35" value="Verifier DID track &amp;amp; Impact Score &lt;br&gt;X&lt;br&gt;&amp;nbsp;performance Score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-39" value="Claim Rewards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729.25" y="864" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
