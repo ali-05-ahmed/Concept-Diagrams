@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-35" value="Verifier DID track &amp;amp; Impact Score &lt;br&gt;X&lt;br&gt;&amp;nbsp;performance Score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13" y="425" width="140" height="70" as="geometry" />
+          <mxGeometry x="4.039999999999999" y="425" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-39" value="Claim Rewards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729.25" y="864" width="120" height="40" as="geometry" />
