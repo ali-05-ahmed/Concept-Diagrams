@@ -98,7 +98,7 @@
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-27" value="Per Reward Epoch (any time : 1 day)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="230.34" y="670" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DtqDU-Rs7tbBezv1qBNo-29" value="Aggregate Epoch Performance Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-29" value="Aggregate Epoch Hotspot Performance Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183.00000000000003" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-30" target="DtqDU-Rs7tbBezv1qBNo-33">
@@ -197,7 +197,7 @@
         <mxCell id="DtqDU-Rs7tbBezv1qBNo-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DtqDU-Rs7tbBezv1qBNo-59" target="DtqDU-Rs7tbBezv1qBNo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DtqDU-Rs7tbBezv1qBNo-59" value="Aggregate Epoch Performance Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DtqDU-Rs7tbBezv1qBNo-59" value="Aggregate Epoch AAA Performance Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-5.9599999999999795" y="556" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
