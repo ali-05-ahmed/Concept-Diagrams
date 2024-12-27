@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="kQMQTXATmenSAZyp5msM">
-    <mxGraphModel dx="4947" dy="3020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sQJihE5McX6MDJEX05fL-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="1160" width="650" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="oUvKnUqJZTMTFXycQhW--68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="-1035" width="1520" height="970" as="geometry" />
+          <mxGeometry x="-780" y="80" width="1520" height="970" as="geometry" />
         </mxCell>
         <mxCell id="oUvKnUqJZTMTFXycQhW--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oUvKnUqJZTMTFXycQhW--2" target="oUvKnUqJZTMTFXycQhW--54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,25 +219,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-8" value="Cosmos SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1200" width="260" height="60" as="geometry" />
+          <mxGeometry x="-25" y="1260" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQJihE5McX6MDJEX05fL-9" target="sQJihE5McX6MDJEX05fL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-9" value="X/EVM Module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-408" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-303" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sQJihE5McX6MDJEX05fL-11" target="sQJihE5McX6MDJEX05fL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-11" value="ABCI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1300" width="260" height="60" as="geometry" />
+          <mxGeometry x="-25" y="1360" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-13" value="POM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-129.5" y="1400" width="259.5" height="60" as="geometry" />
+          <mxGeometry x="-24.5" y="1460" width="259.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sQJihE5McX6MDJEX05fL-14" value="Networking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-129.5" y="1470" width="260" height="60" as="geometry" />
+          <mxGeometry x="-24.5" y="1530" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
