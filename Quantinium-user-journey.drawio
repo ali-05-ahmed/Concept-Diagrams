@@ -155,6 +155,9 @@
         <mxCell id="M_gnL3viA9wApIf26CQV-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-47" target="M_gnL3viA9wApIf26CQV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-47" target="M_gnL3viA9wApIf26CQV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-47" value="Valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="1201" width="80" height="80" as="geometry" />
         </mxCell>
@@ -166,6 +169,12 @@
         </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-53" value="Provider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1570" y="481" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-57" target="M_gnL3viA9wApIf26CQV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-57" value="Delist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1211" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
