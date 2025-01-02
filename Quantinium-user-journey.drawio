@@ -84,8 +84,14 @@
         <mxCell id="M_gnL3viA9wApIf26CQV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-31" target="M_gnL3viA9wApIf26CQV-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-31" target="M_gnL3viA9wApIf26CQV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-31" value="Usage&lt;br&gt;NFT / Cert / Attestation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="865" y="580" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-35" value="DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
