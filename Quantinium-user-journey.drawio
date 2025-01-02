@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="SBFZ99m77JHKjxJjiRP0">
-    <mxGraphModel dx="2049" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3187" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,14 +53,25 @@
             <mxPoint x="490" y="581" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-7" target="M_gnL3viA9wApIf26CQV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-7" value="Rewards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1351" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M_gnL3viA9wApIf26CQV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-8" target="M_gnL3viA9wApIf26CQV-51">
+        <mxCell id="M_gnL3viA9wApIf26CQV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-60" target="M_gnL3viA9wApIf26CQV-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-8" target="M_gnL3viA9wApIf26CQV-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="511" />
+              <mxPoint x="1340" y="621" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-8" value="My Devices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="481" width="200" height="60" as="geometry" />
+          <mxGeometry x="1351" y="481" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-11" target="M_gnL3viA9wApIf26CQV-15">
           <mxGeometry relative="1" as="geometry" />
@@ -127,6 +138,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-37" target="M_gnL3viA9wApIf26CQV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-37" value="Pay" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1044" y="581" width="80" height="80" as="geometry" />
         </mxCell>
@@ -168,13 +182,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-53" value="Provider" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="481" width="30" height="60" as="geometry" />
+          <mxGeometry x="1621" y="481" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-57" target="M_gnL3viA9wApIf26CQV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M_gnL3viA9wApIf26CQV-57" value="Delist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1211" width="120" height="60" as="geometry" />
+          <mxGeometry x="1391" y="1211" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M_gnL3viA9wApIf26CQV-8" target="M_gnL3viA9wApIf26CQV-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1351" y="511" as="sourcePoint" />
+            <mxPoint x="1124" y="511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-60" value="Relist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_gnL3viA9wApIf26CQV-62" value="Earning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="591" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
