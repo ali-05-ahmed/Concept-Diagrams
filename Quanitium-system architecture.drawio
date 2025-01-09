@@ -32,7 +32,7 @@
           <mxGeometry width="120" height="430" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-15" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;" vertex="1" parent="MGaUW8vT95l_0DNnwdVj-12">
-          <mxGeometry x="35" y="286.66666666666663" width="50" height="49" as="geometry" />
+          <mxGeometry x="22.59" y="260" width="74.83" height="73.33" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-16" value="" style="group;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="910" y="1120" width="200" height="120" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="MGaUW8vT95l_0DNnwdVj-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-24" target="MGaUW8vT95l_0DNnwdVj-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MGaUW8vT95l_0DNnwdVj-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-24" value="NOSQL DATABASE" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
           <mxGeometry x="715.95" y="1320" width="108.11" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-13" target="MGaUW8vT95l_0DNnwdVj-24">
@@ -127,6 +127,12 @@
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-41" value="Subscription&lt;br&gt;Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-45" target="MGaUW8vT95l_0DNnwdVj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-45" value="Quantinium Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
