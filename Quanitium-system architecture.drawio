@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="FB8wgQGws5zpo8DMdUKS">
-    <mxGraphModel dx="1912" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,13 +109,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-39" value="DataFeed&amp;nbsp;&lt;br&gt;contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-40" target="MGaUW8vT95l_0DNnwdVj-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-40" value="Zk Auth Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-41" target="MGaUW8vT95l_0DNnwdVj-27">
           <mxGeometry relative="1" as="geometry">
@@ -126,13 +126,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-41" value="Subscription&lt;br&gt;Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-45" target="MGaUW8vT95l_0DNnwdVj-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-45" value="Quantinium Wallet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-47" target="MGaUW8vT95l_0DNnwdVj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-47" value="Cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1480" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-48" target="MGaUW8vT95l_0DNnwdVj-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-48" target="MGaUW8vT95l_0DNnwdVj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-48" target="MGaUW8vT95l_0DNnwdVj-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-48" value="Pfsense&lt;br&gt;GW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-49" value="Ntop&lt;br&gt;Traffic Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
