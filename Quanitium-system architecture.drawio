@@ -76,7 +76,7 @@
         <mxCell id="MGaUW8vT95l_0DNnwdVj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="MGaUW8vT95l_0DNnwdVj-27" target="MGaUW8vT95l_0DNnwdVj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MGaUW8vT95l_0DNnwdVj-27" value="Avalanche Quantinium L1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
+        <mxCell id="MGaUW8vT95l_0DNnwdVj-27" value="Avalanche Quantinium L1 / C-chain" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="1166" y="680" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MGaUW8vT95l_0DNnwdVj-19" target="MGaUW8vT95l_0DNnwdVj-6" edge="1">
@@ -95,9 +95,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MGaUW8vT95l_0DNnwdVj-13" target="MGaUW8vT95l_0DNnwdVj-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MGaUW8vT95l_0DNnwdVj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MGaUW8vT95l_0DNnwdVj-13" target="MGaUW8vT95l_0DNnwdVj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MGaUW8vT95l_0DNnwdVj-22" target="MGaUW8vT95l_0DNnwdVj-4" edge="1">
@@ -169,6 +166,9 @@
         </mxCell>
         <mxCell id="MGaUW8vT95l_0DNnwdVj-56" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;" parent="MGaUW8vT95l_0DNnwdVj-54" vertex="1">
           <mxGeometry x="22.59" y="260" width="74.83" height="73.33" as="geometry" />
+        </mxCell>
+        <mxCell id="F9owgOYvCubE9uAVOMVK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.031;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MGaUW8vT95l_0DNnwdVj-17" target="MGaUW8vT95l_0DNnwdVj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
