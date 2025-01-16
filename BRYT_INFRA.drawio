@@ -13,7 +13,7 @@
         <mxCell id="-u29XsMk3B0fSCQTi_qC-3" value="Cloud Nodes" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="56.00000000000001" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-4" target="-u29XsMk3B0fSCQTi_qC-1">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-4" target="-u29XsMk3B0fSCQTi_qC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-u29XsMk3B0fSCQTi_qC-4" value="Cloud Nodes" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
@@ -22,26 +22,26 @@
         <mxCell id="-u29XsMk3B0fSCQTi_qC-5" value="Cloud Nodes" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="56.00000000000001" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-6" target="-u29XsMk3B0fSCQTi_qC-3">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-6" target="-u29XsMk3B0fSCQTi_qC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-6" target="-u29XsMk3B0fSCQTi_qC-1">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-6" target="-u29XsMk3B0fSCQTi_qC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-u29XsMk3B0fSCQTi_qC-6" value="Cloud Nodes" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/ABS_Member.svg;" vertex="1" parent="1">
           <mxGeometry x="397" y="120" width="56.00000000000001" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-3" target="-u29XsMk3B0fSCQTi_qC-4">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-3" target="-u29XsMk3B0fSCQTi_qC-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="208" y="521" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-4" target="-u29XsMk3B0fSCQTi_qC-5">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-4" target="-u29XsMk3B0fSCQTi_qC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-5" target="-u29XsMk3B0fSCQTi_qC-6">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-5" target="-u29XsMk3B0fSCQTi_qC-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="658" y="156" />
@@ -60,10 +60,10 @@
         <mxCell id="-u29XsMk3B0fSCQTi_qC-16" value="Self Hosted Nodes" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;" vertex="1" parent="1">
           <mxGeometry x="633" y="540" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-3" target="-u29XsMk3B0fSCQTi_qC-1">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-3" target="-u29XsMk3B0fSCQTi_qC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-u29XsMk3B0fSCQTi_qC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-5" target="-u29XsMk3B0fSCQTi_qC-1">
+        <mxCell id="-u29XsMk3B0fSCQTi_qC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-u29XsMk3B0fSCQTi_qC-5" target="-u29XsMk3B0fSCQTi_qC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
