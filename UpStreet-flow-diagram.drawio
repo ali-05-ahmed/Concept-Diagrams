@@ -154,7 +154,7 @@
         <mxCell id="qBggJVABZFAgzixEBoHw-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UPSTREET TOKENS FLOW&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="371.5" y="20" width="315" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tn_r8GRvS78MuVOy9B0f-1" value="Storage" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+        <mxCell id="Tn_r8GRvS78MuVOy9B0f-1" value="Key Store" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="919" y="228.5" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Tn_r8GRvS78MuVOy9B0f-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tn_r8GRvS78MuVOy9B0f-2" target="Tn_r8GRvS78MuVOy9B0f-1">
