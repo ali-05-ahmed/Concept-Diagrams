@@ -10,7 +10,7 @@
         <mxCell id="8JNkmG3X6IcZGzOzg8y7-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JNkmG3X6IcZGzOzg8y7-2" target="8JNkmG3X6IcZGzOzg8y7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JNkmG3X6IcZGzOzg8y7-2" value="Factory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8JNkmG3X6IcZGzOzg8y7-2" value="4337&lt;br&gt;Factory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="110" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8JNkmG3X6IcZGzOzg8y7-6" value="" style="group" vertex="1" connectable="0" parent="1">
