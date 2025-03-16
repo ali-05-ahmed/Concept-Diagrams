@@ -82,7 +82,7 @@
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-42" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Kresus&lt;br&gt;4337&lt;br&gt;Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-48" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Magic Kresus&lt;br&gt;keys Config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-48" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Magic Kresus&lt;br&gt;&amp;nbsp;Config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
