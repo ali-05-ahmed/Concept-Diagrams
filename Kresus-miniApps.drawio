@@ -8,21 +8,13 @@
           <mxGeometry x="170" y="410" width="160" height="350" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-21" value="Kresus Backend" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="425" y="430" width="160" height="350" as="geometry" />
+          <mxGeometry x="440" y="810" width="160" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-22" value="Visit Mini App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-23" target="NqGFsDSJCZWuU0SmbqEO-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-23" value="Signs Up with Email&lt;br&gt;(Magic Link)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="510" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-26" target="NqGFsDSJCZWuU0SmbqEO-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="600" />
-              <mxPoint x="370" y="480" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="190" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-26" target="NqGFsDSJCZWuU0SmbqEO-29">
           <mxGeometry relative="1" as="geometry" />
@@ -31,21 +23,13 @@
           <mxGeometry x="190" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-27" value="Save SCA address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="460" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-29" target="NqGFsDSJCZWuU0SmbqEO-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="660" />
-              <mxPoint x="380" y="540" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="465" y="860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-29" value="Create/Edit Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-30" value="Upload Image to&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="465" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-31" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="660" y="420" width="160" height="350" as="geometry" />
@@ -62,21 +46,9 @@
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-35" value="Find minted NFT in&lt;br&gt;NFT sections" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NqGFsDSJCZWuU0SmbqEO-31">
           <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NqGFsDSJCZWuU0SmbqEO-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-42" target="NqGFsDSJCZWuU0SmbqEO-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="260" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-42" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Kresus&lt;br&gt;4337&lt;br&gt;Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
@@ -84,6 +56,18 @@
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-48" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Magic Kresus&lt;br&gt;&amp;nbsp;Config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-49" value="Minikit SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-50" value="React Native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-52" value="Identical Wallet Access" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-33" target="NqGFsDSJCZWuU0SmbqEO-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
