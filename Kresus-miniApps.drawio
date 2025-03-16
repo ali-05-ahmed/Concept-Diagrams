@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="EKsOD42DdvIz5vcE3mQu">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-20" value="NFT Mini App" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-21" value="Kresus Backend" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="425" y="430" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-22" value="Visit Mini App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-23" value="Signs Up with Email&lt;br&gt;(Magic Link)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-26" target="NqGFsDSJCZWuU0SmbqEO-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="600" />
+              <mxPoint x="370" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-26" target="NqGFsDSJCZWuU0SmbqEO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-26" value="Compute user&#39;s SCA&lt;br&gt;Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-27" value="Save SCA address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-29" target="NqGFsDSJCZWuU0SmbqEO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="660" />
+              <mxPoint x="380" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-29" value="Create/Edit Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-30" value="Upload Image to&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="420" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-32" value="Kresus Mobile App" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="NqGFsDSJCZWuU0SmbqEO-31">
+          <mxGeometry width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-33" value="Signup with same&lt;br&gt;Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NqGFsDSJCZWuU0SmbqEO-31">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-34" value="Complete onboarding&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NqGFsDSJCZWuU0SmbqEO-31">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-35" value="Find minted NFT in&lt;br&gt;NFT sections" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NqGFsDSJCZWuU0SmbqEO-31">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NqGFsDSJCZWuU0SmbqEO-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-42" target="NqGFsDSJCZWuU0SmbqEO-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-42" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Kresus&lt;br&gt;4337&lt;br&gt;Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-48" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Magic Kresus&lt;br&gt;keys Config&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
