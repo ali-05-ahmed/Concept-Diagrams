@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="ECbBFmetKhTGnj-cMGHT">
-    <mxGraphModel dx="1857" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2025" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-11" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-12" value="Transafer Ownership&lt;div&gt;Trustee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-12" value="Transfer Ownership&lt;div&gt;Trustee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="560" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-13" target="Gq1O3nBwWOJLRT3mH5RI-12">
@@ -166,20 +166,36 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-44" target="Gq1O3nBwWOJLRT3mH5RI-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-65" value="Kresus Signature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq1O3nBwWOJLRT3mH5RI-49">
+          <mxGeometry x="0.2017" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-44" target="Gq1O3nBwWOJLRT3mH5RI-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-67" value="Check Activity Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq1O3nBwWOJLRT3mH5RI-64">
+          <mxGeometry x="0.7213" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-44" value="Kresus Verifier&amp;nbsp;&lt;div&gt;Keys&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="460" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-45" target="Gq1O3nBwWOJLRT3mH5RI-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-45" value="Kresus Verifier&amp;nbsp;&lt;div&gt;Keys&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-45" target="Gq1O3nBwWOJLRT3mH5RI-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-45" value="&lt;div&gt;&lt;div&gt;Trustee Keys&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="650" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-48" target="Gq1O3nBwWOJLRT3mH5RI-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-48" value="Multisig&lt;br&gt;2/2&lt;br&gt;Thrushold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="140" height="100" as="geometry" />
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-48" value="Multisig&lt;br&gt;2/2&lt;br&gt;Threshold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-55" target="Gq1O3nBwWOJLRT3mH5RI-12">
           <mxGeometry relative="1" as="geometry" />
@@ -199,6 +215,18 @@
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-55" value="isValid&lt;br&gt;signature" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-61" target="Gq1O3nBwWOJLRT3mH5RI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-61" value="Trustee Verifier&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-66" value="Trustee Signature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380.0045454545455" y="674.4954545454545" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-68" value="Initiate Transfer Ownership Flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280.00030303030303" y="650.0042424242425" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
