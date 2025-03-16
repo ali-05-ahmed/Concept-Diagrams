@@ -62,6 +62,23 @@
             <mxPoint x="26" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-21" target="Gq1O3nBwWOJLRT3mH5RI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Gq1O3nBwWOJLRT3mH5RI-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-21" value="Magic&lt;div&gt;Encrypted Keys&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="155.5" width="40" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-23" value="1271 Signature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
