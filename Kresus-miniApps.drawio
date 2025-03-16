@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="EKsOD42DdvIz5vcE3mQu">
-    <mxGraphModel dx="5306" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2335" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,17 +40,11 @@
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-26" value="Compute user&#39;s SCA&lt;br&gt;Address" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="173" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-27" value="Save SCA address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1140" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-29" target="NqGFsDSJCZWuU0SmbqEO-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-29" value="Create/Edit Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="43" y="580" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-30" value="Upload Image to&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-42">
           <mxGeometry relative="1" as="geometry">
@@ -94,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-68" value="User Magic&lt;div&gt;Encrypted Keys&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="675.5" width="40" height="49" as="geometry" />
+          <mxGeometry x="-120" y="675.5" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-71" target="NqGFsDSJCZWuU0SmbqEO-73">
           <mxGeometry relative="1" as="geometry" />
