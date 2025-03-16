@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="ECbBFmetKhTGnj-cMGHT">
-    <mxGraphModel dx="2025" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-2" target="Gq1O3nBwWOJLRT3mH5RI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-2" value="Kresus&lt;br&gt;4337&lt;br&gt;Factory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-2" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Kresus&lt;br&gt;4337&lt;br&gt;Factory&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);" vertex="1" parent="1">
           <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-3" target="Gq1O3nBwWOJLRT3mH5RI-6">
@@ -18,7 +18,7 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-3" value="Wallet Implementation&lt;br&gt;Contract" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-3" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Wallet Implementation&lt;br&gt;Contract&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#000099, #ededed);gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="130" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-7" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -30,7 +30,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-5" value="Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
           <mxGeometry x="10" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-6" value="Smart Contract&lt;br&gt;Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-6" value="Smart Contract&lt;br&gt;Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000099;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
           <mxGeometry x="20" y="20" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-10" target="Gq1O3nBwWOJLRT3mH5RI-6">
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-10" value="Ownership" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-10" value="Ownership" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-11" target="Gq1O3nBwWOJLRT3mH5RI-32">
@@ -53,10 +53,10 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-11" target="Gq1O3nBwWOJLRT3mH5RI-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-11" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-11" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-12" value="Transfer Ownership&lt;div&gt;Trustee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-12" value="Transfer Ownership&lt;div&gt;Trustee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="560" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-13" target="Gq1O3nBwWOJLRT3mH5RI-12">
@@ -67,7 +67,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-13" value="Trustee setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-13" value="Trustee setup" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-14" target="Gq1O3nBwWOJLRT3mH5RI-32">
@@ -85,7 +85,7 @@
             <mxPoint x="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-14" value="Execute Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-14" value="Execute Batch" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-15" target="Gq1O3nBwWOJLRT3mH5RI-11">
@@ -94,7 +94,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-15" target="Gq1O3nBwWOJLRT3mH5RI-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-15" value="Is Valid Signature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-15" value="Is Valid Signature" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-2" target="Gq1O3nBwWOJLRT3mH5RI-6">
@@ -122,7 +122,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-23" target="Gq1O3nBwWOJLRT3mH5RI-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-23" value="1271 Signature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-23" value="1271 Signature" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-6" target="Gq1O3nBwWOJLRT3mH5RI-15">
@@ -157,10 +157,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-32" value="External / Internal Contract Calls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-32" value="External / Internal Contract Calls" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="290" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-39" value="Third Party Contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-39" value="Third Party Contracts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="810" y="220" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-44" target="Gq1O3nBwWOJLRT3mH5RI-48">
@@ -194,7 +194,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-48" target="Gq1O3nBwWOJLRT3mH5RI-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-48" value="Multisig&lt;br&gt;2/2&lt;br&gt;Threshold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-48" value="Multisig&lt;br&gt;2/2&lt;br&gt;Threshold" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-55" target="Gq1O3nBwWOJLRT3mH5RI-12">
@@ -213,13 +213,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-55" value="isValid&lt;br&gt;signature" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-55" value="isValid&lt;br&gt;signature" style="rhombus;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-61" target="Gq1O3nBwWOJLRT3mH5RI-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-61" value="Trustee Verifier&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-61" value="Trustee Verifier&lt;br&gt;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#000099, #ededed);strokeColor=none;labelBorderColor=default;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="210" y="530" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-66" value="Trustee Signature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
