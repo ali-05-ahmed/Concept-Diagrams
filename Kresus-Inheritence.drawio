@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="ECbBFmetKhTGnj-cMGHT">
-    <mxGraphModel dx="1238" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-3" value="Wallet Implementation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-3" value="Wallet Implementation&lt;br&gt;Contract" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="130" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-7" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -30,7 +30,7 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-5" value="Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
           <mxGeometry x="10" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-6" value="Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-6" value="Smart Contract&lt;br&gt;Wallet Proxy" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Gq1O3nBwWOJLRT3mH5RI-7">
           <mxGeometry x="20" y="20" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-10" target="Gq1O3nBwWOJLRT3mH5RI-6">
@@ -50,17 +50,40 @@
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-11" target="Gq1O3nBwWOJLRT3mH5RI-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-11" target="Gq1O3nBwWOJLRT3mH5RI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-11" value="Execute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-12" value="Transafer Ownership&lt;div&gt;Trustee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="480" width="140" height="40" as="geometry" />
+          <mxGeometry x="810" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-13" target="Gq1O3nBwWOJLRT3mH5RI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-47" value="Trustee Address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq1O3nBwWOJLRT3mH5RI-46">
+          <mxGeometry x="-0.14" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-13" value="Trustee setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-14" target="Gq1O3nBwWOJLRT3mH5RI-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-14" target="Gq1O3nBwWOJLRT3mH5RI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-43" value="Trustee address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq1O3nBwWOJLRT3mH5RI-41">
+          <mxGeometry x="0.0202" y="-2" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-14" value="Execute Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="140" height="40" as="geometry" />
@@ -122,7 +145,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="340" />
-              <mxPoint x="990" y="500" />
+              <mxPoint x="990" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,6 +162,43 @@
         </mxCell>
         <mxCell id="Gq1O3nBwWOJLRT3mH5RI-39" value="Third Party Contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-44" target="Gq1O3nBwWOJLRT3mH5RI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-44" value="Kresus Verifier&amp;nbsp;&lt;div&gt;Keys&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="40" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-45" target="Gq1O3nBwWOJLRT3mH5RI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-45" value="Kresus Verifier&amp;nbsp;&lt;div&gt;Keys&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="40" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-48" target="Gq1O3nBwWOJLRT3mH5RI-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-48" value="Multisig&lt;br&gt;2/2&lt;br&gt;Thrushold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-55" target="Gq1O3nBwWOJLRT3mH5RI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="Gq1O3nBwWOJLRT3mH5RI-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-59" value="Message check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq1O3nBwWOJLRT3mH5RI-58">
+          <mxGeometry x="-0.0046" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq1O3nBwWOJLRT3mH5RI-55" value="isValid&lt;br&gt;signature" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
