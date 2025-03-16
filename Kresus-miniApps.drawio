@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="EKsOD42DdvIz5vcE3mQu">
-    <mxGraphModel dx="2335" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2875" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,13 +180,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-110" target="NqGFsDSJCZWuU0SmbqEO-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-110" value="Minted NFTs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;strokeColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-34" value="Complete onboarding&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="762" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NqGFsDSJCZWuU0SmbqEO-35" value="Minted NFTs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-35" value="Wallet NFTs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="762" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-119" target="NqGFsDSJCZWuU0SmbqEO-52">
@@ -206,6 +209,12 @@
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-121" value="Kresus Wallet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;strokeColor=none;labelBorderColor=none;fontColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-127" target="NqGFsDSJCZWuU0SmbqEO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-127" value="All NFTs" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#bac8d3, #ededed);fillColor=light-dark(#bac8d3, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
