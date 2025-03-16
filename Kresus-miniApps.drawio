@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="EKsOD42DdvIz5vcE3mQu">
-    <mxGraphModel dx="2228" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NqGFsDSJCZWuU0SmbqEO-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-10" width="1395" height="1839" as="geometry" />
+        </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-23" target="NqGFsDSJCZWuU0SmbqEO-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -88,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-68" value="User Magic&lt;div&gt;Encrypted Keys&lt;/div&gt;" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="915.5" width="40" height="49" as="geometry" />
+          <mxGeometry x="330" y="915.5" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-71" target="NqGFsDSJCZWuU0SmbqEO-73">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-79" value="Mint Signer" style="shape=mxgraph.cisco.misc.keys;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1585.5" width="40" height="49" as="geometry" />
+          <mxGeometry x="330" y="1585.5" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NqGFsDSJCZWuU0SmbqEO-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NqGFsDSJCZWuU0SmbqEO-81" target="NqGFsDSJCZWuU0SmbqEO-78">
           <mxGeometry relative="1" as="geometry" />
