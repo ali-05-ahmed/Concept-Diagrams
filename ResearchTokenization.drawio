@@ -394,7 +394,7 @@
         <mxCell id="g9o-vh6EnoRpHpNOiTXX-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Participents&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#924ddb, #ededed);fillColor=light-dark(#6865f0, #ededed);fontColor=#FFFFFF;shadow=1;strokeColor=light-dark(#934dda, #ededed);gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="2872.11" y="4132.5" width="305" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="g9o-vh6EnoRpHpNOiTXX-134" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 62px;&quot;&gt;Decentralized Research Collaboration&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 62px;&quot;&gt;Component Flows&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Courier New;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="g9o-vh6EnoRpHpNOiTXX-134" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 62px;&quot;&gt;Decentralized Research Collaboration&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 62px;&quot;&gt;Component Flow&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Courier New;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="715" y="3730" width="1410.39" height="200" as="geometry" />
         </mxCell>
       </root>
