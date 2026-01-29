@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="ZJZ67NveCxK2YYxhiTDE">
-    <mxGraphModel dx="4893" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4634" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="is3Xkg2nQK6FEm76hYm_-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1140" width="2430" x="2480" y="3330" as="geometry" />
+          <mxGeometry height="1560" width="3040" x="-720" y="7045" as="geometry" />
         </mxCell>
         <mxCell id="DbL3qp5Uxw496mI37rSD-7" edge="1" parent="1" source="DbL3qp5Uxw496mI37rSD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DbL3qp5Uxw496mI37rSD-6">
           <mxGeometry relative="1" as="geometry" />
@@ -728,7 +728,7 @@
           <mxGeometry height="42" width="50" x="-195" y="4590" as="geometry" />
         </mxCell>
         <mxCell id="is3Xkg2nQK6FEm76hYm_-167" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;Proxy/Parallel TX Implementation&lt;/font&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="140" width="300" x="-700" y="3800" as="geometry" />
+          <mxGeometry height="140" width="300" x="-570" y="7200" as="geometry" />
         </mxCell>
         <mxCell id="ZXBUdowZpMsSjWDyhwM5-3" edge="1" parent="1" source="ZXBUdowZpMsSjWDyhwM5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZXBUdowZpMsSjWDyhwM5-2">
           <mxGeometry relative="1" as="geometry" />
@@ -768,6 +768,11 @@
         </mxCell>
         <mxCell id="ZXBUdowZpMsSjWDyhwM5-12" edge="1" parent="1" source="ZXBUdowZpMsSjWDyhwM5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZXBUdowZpMsSjWDyhwM5-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-1" connectable="0" parent="ZXBUdowZpMsSjWDyhwM5-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1794" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZXBUdowZpMsSjWDyhwM5-59" edge="1" parent="1" source="ZXBUdowZpMsSjWDyhwM5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZXBUdowZpMsSjWDyhwM5-1">
           <mxGeometry relative="1" as="geometry">
@@ -941,6 +946,200 @@
         </mxCell>
         <mxCell id="ZXBUdowZpMsSjWDyhwM5-66" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;117&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="570" y="5980" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="240" x="-95" y="7830" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-5" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/wallet.svg;" value="Group wallet" vertex="1">
+          <mxGeometry height="60" width="60" x="-5" y="7864" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-6" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Config&lt;br&gt;&lt;br&gt;1.max number of wallets allowed&lt;br&gt;&lt;br&gt;2.threshold % of usage to increase wallets&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;note: always start group with 2 executors&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="210" x="-80" y="7550" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-9" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="8045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;TX&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-405" y="8030" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-12" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-53" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-56" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" target="RvASAUo4A0hr_Qhw99mL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Transaction&lt;br&gt;Type" vertex="1">
+          <mxGeometry height="115" width="120" x="385" y="7987.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-19" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NonceKey TX" vertex="1">
+          <mxGeometry height="60" width="120" x="385" y="7864" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-13" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="memory lookup cache" vertex="1">
+          <mxGeometry height="60" width="210" x="340" y="7655" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-15" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-16" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.1742" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Wallet detected" vertex="1">
+          <mxGeometry height="150" width="150" x="730" y="7610" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-22" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Redis lookup cache" vertex="1">
+          <mxGeometry height="60" width="210" x="700" y="7480" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-23" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-26" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.5684" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-30" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-39" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.3929" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Wallet detected" vertex="1">
+          <mxGeometry height="150" width="150" x="730" y="7270" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update local cache" vertex="1">
+          <mxGeometry height="60" width="120" x="385" y="7420" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-32" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-33" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Select Wallet with &lt;br&gt;Least Lane Usage" vertex="1">
+          <mxGeometry relative="1" x="-0.3093" y="-5" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="get wallets usage&lt;br&gt;Based on Lance Consumption" vertex="1">
+          <mxGeometry height="60" width="140" x="1335" y="7438" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-35" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Transaction &lt;br&gt;Wallet/Lane&lt;br&gt;Allocator" vertex="1">
+          <mxGeometry height="85" width="210" x="1300" y="7651.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-38" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="allocate Lane to wallet" vertex="1">
+          <mxGeometry height="60" width="210" x="1563" y="7664.25" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BullMQ Specific Quad FIFO QUEUE" vertex="1">
+          <mxGeometry height="60" width="240" x="1837" y="7664.25" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-42" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-43" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2695" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-65" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-41" parent="1" style="rhombus;whiteSpace=wrap;html=1;direction=south;" value="threshold met the max&amp;nbsp;&lt;br&gt;condition" vertex="1">
+          <mxGeometry height="190" width="175" x="1002.5" y="7600" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-50" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="allocate parallel (0-128) Lane to wallet" vertex="1">
+          <mxGeometry height="60" width="210" x="1563" y="8170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-51" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Transaction &lt;br&gt;Wallet/Lane&lt;br&gt;Allocator" vertex="1">
+          <mxGeometry height="85" width="210" x="1300" y="8158" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-48" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="get wallets usage&lt;br&gt;Based on Lance Consumption" vertex="1">
+          <mxGeometry height="60" width="140" x="1335" y="8410.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-46" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Select Wallet with &lt;br&gt;Least Lane Usage" vertex="1">
+          <mxGeometry x="1405" y="8360.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="lock lane in redis until the transactions is completed" vertex="1">
+          <mxGeometry height="60" width="240" x="1837" y="8170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-60" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Parallel TX" vertex="1">
+          <mxGeometry height="60" width="120" x="385" y="8170" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-57" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-54" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="If thrushhod &lt;br&gt;config meet&lt;br&gt;&lt;br&gt;no_of_wallets &lt;br&gt;* &lt;br&gt;128" vertex="1">
+          <mxGeometry height="150" width="160" x="595" y="7970" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create additional wallet if max no. of wallet not reached" vertex="1">
+          <mxGeometry height="60" width="210" x="570" y="7860" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This should be done async without await" vertex="1">
+          <mxGeometry height="30" width="130" x="610" y="7810" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-61" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-62" connectable="0" parent="RvASAUo4A0hr_Qhw99mL-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.2274" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-64" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;direction=south;" value="threshold met the max&amp;nbsp;&lt;br&gt;condition" vertex="1">
+          <mxGeometry height="190" width="175" x="1002.5" y="8105" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-69" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Group FIFO Queue" vertex="1">
+          <mxGeometry height="60" width="240" x="970" y="7910" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-67" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RvASAUo4A0hr_Qhw99mL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-68" edge="1" parent="1" source="RvASAUo4A0hr_Qhw99mL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="RvASAUo4A0hr_Qhw99mL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RvASAUo4A0hr_Qhw99mL-66" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Transaction&lt;br&gt;Type" vertex="1">
+          <mxGeometry height="115" width="120" x="1345" y="7882.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
